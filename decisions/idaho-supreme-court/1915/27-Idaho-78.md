@@ -1,7 +1,7 @@
 ---
 court: "Idaho Supreme Court"
 decided: "1915-03-12"
-citations: ["27 Idaho 78", "147 P. 284", "27 Idaho 75", "147 P. 286"]
+citations: ["27 Idaho 78", "147 P. 284"]
 reporter: "idaho"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["MABEL LEONARD, Appellant, v. JAMES H. BRADY et al., Respondents."]
 source_url: "https://static.case.law/idaho/27/cases/0078-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2316766
-cites_cases: ["102 Pac. 146", "103 Pae. 595", "106 Pac. 841", "107 N. C. 103", "11 Ida. 431", "11 N. W. 517", "111 Pac. 925", "115 N. C. 295", "119 Ind. 338", "12 N. W. 23", "12 Pac. 306", "12 S. E. 118", "125 Cal. 540", "128 Cal. 619", "133 Ind. 498", "146 Ind. 177", "147 Pac. 284", "148 Ind. 74", "158 Cal. 548", "16 Ida. 551", "16 Ida. 556", "20 Ida. 120", "20 S. E. 451", "20 Wash. 208", "21 Ida. 598", "21 Ida. 777", "21 N. E. 968", "24 Ida. 87", "29 Pac. 254", "30 Pae. 585", "32 Pac. 452", "33 N. E. 277", "45 N. E. 66", "46 N. E. 13", "47 N. E. 156", "5 Ida. 510", "5 Okl. Cr. 119", "54 Pac. 1123", "54 Wis. 554", "55 Pae. 241", "58 Pac. 176", "59 Pac. 179", "6 Ida. 216", "6 Ida. 654", "6 Ida. 67", "61 Pac. 277", "71 Cal. 491", "8 Wis. 376", "83 Pac. 497", "89 Fed. 164", "9 Ark. 354", "9 Ida. 317", "93 Cal. 647", "97 Cal. 388"]
+cites_cases: ["102 Pac. 146", "103 Pae. 595", "106 Pac. 841", "107 N. C. 103", "11 Ida. 431", "111 Pac. 925", "115 N. C. 295", "12 S. E. 118", "125 Cal. 540", "158 Cal. 548", "16 Ida. 551", "16 Ida. 556", "20 Ida. 120", "20 S. E. 451", "20 Wash. 208", "21 Ida. 777", "29 Pac. 254", "30 Pae. 585", "32 Pac. 452", "46 N. E. 13", "5 Ida. 510", "5 Okl. Cr. 119", "54 Pac. 1123", "55 Pae. 241", "58 Pac. 176", "59 Pac. 179", "6 Ida. 216", "6 Ida. 654", "6 Ida. 67", "8 Wis. 376", "83 Pac. 497", "89 Fed. 164", "9 Ark. 354", "9 Ida. 317", "93 Cal. 647", "97 Cal. 388"]
 ---
 
 # Leonard v. Brady
