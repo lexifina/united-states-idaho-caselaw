@@ -1,0 +1,41 @@
+---
+court: "Idaho Supreme Court"
+docket: "6381"
+decided: "1937-07-16"
+citations: ["58 Idaho 95", "70 P.2d 374"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Holden and Givens, JJ., concur.", "Morgan, C. J., deeming himself disqualified, did not sit at the hearing or participate in the decision.", "Budge, J., sat at the hearing but expressed no opinion."]
+parties: ["UNITED STATES BUILDING & LOAN ASSOCIATION, a Corporation, Appellant, v. DORA FRANCE and GUARANTY SAVINGS & LOAN COMPANY, a Corporation, Respondents."]
+source_url: "https://static.case.law/idaho/58/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4391231
+cites_cases: ["107 W. Va. 192", "108 N. J. Eq. 251", "13 Ga. App. 847", "141 S. W. 723", "147 S. E. 877", "15 Ida. 716", "154 Atl. 876", "160 Mo. App. 164", "30 Ida. 241", "31 Ida. 160", "32 Ida. 245", "32 Ida. 388", "34 Ida. 643", "41 Ida. 403", "44 Ida. 403", "55 Ida. 732", "56 Ida. 108", "66 A. L. R. 102", "76 A. L. R. 1457", "81 S. E. 263", "9 Ida. 555", "97 Colo. 232"]
+---
+
+# United States Building & Loan Ass'n v. France
+
+## Majority (AILSHIE, J.)
+
+AILSHIE, J.
+This ease was here once before and a full history of the matter, up to the time it was remanded to the trial court, will be found in United States Building & Loan Assn. v. France et al., 56 Ida. 108, 50 Pac. (2d) 1015. After full consideration of the issues raised, with reference to the validity and application of certain provisions of the statute to the facts of the case, this court said:
+“This conclusion, however, does not dispose of the entire controversy because even though the court correctly found that the cheek had been paid and that up to that point the loss would fall upon appellant, the court did not directly find or conclude upon the matter of estoppel or new agreement, which failure appellant with reasonable appropriateness assigns as error.
+‘ ‘ If either a new agreement was made, or the Guaranty Savings & Loan Company is estopped from now seeking to place the loss upon appellant, it would affect the judgment, hence findings should have been made on these points.....
+“In view of the necessity for these additional findings on these two questions, we will not further discuss the evidence, but reverse the judgment and remand the case to the trial court for further proceedings, specific findings and conclusions to be made with regard to the asserted estoppel and disputed new agreement, and judgment entered accordingly.
+Bemittitur to the district court recited, “that the judgment of the district court .... be and the same is hereby reversed and the cause remanded to the trial court for further proceedings, specific findings and conclusions to be made with regard to the asserted estoppel and disputed new agreement, and judgment entered accordingly.”
+The case was called for new trial in the district court; no further evidence was introduced. The case was argued and thereupon the trial court made new findings of fact and conclusions of law and entered decree in favor of defendants, from which judgment the second appeal has been taken.
+No change was made in the findings upon the second hearing except that the trial court made two new and additional findings, reading as follows:
+“XV.
+“That there was no new agreement entered into between the defendants, or either of them, and the plaintiff with respect to the payment of the check mentioned in the foregoing Findings; that O. R. Baum did not have the necessary authority from the Guaranty Savings and Loan Company to make a contract binding said Company to pay said check, neither did he have any authority to make any such agreement in such a way as to bind the defendant, Dora France.
+“XVI.
+“That the defendants are not estopped to claim payment of the check in question in this case. ’ ’
+Many of the assignments of error made on this appeal were made on the former appeal but we cannot consider them here, since the judgment on the former appeal is the law of the case, and much of appellant’s brief is devoted to a discussion of questions which arose on the former appeal. Counsel for appellant have argued here what - they allege were erroneous rulings of the trial court in the admission and rejection of evidence, all of which was before the court on the former appeal and cannot be re-examined now. (Later v. Haywood, 15 Ida. 716, 718, 99 Pac. 828; Village of Heyburn v. Security Sav. & Trust Co., 55 Ida. 732, 49 Pac. (2d) 258; Hall v. Blackman, 9 Ida. 555, 560, 75 Pac. 608; Richards v. Jarvis, 44 Ida. 403, 406, 258 Pac. 370.)
+The only questions properly before us at this time are (a) whether a new agreement was made and (b) whether any estoppel arises against respondent. The court found that “there was no agreement entered into” but apparently predicated such finding upon the further finding “that O. B. Baum did not have the necessary authority from the Guaranty Savings & Loan Company to make a contract binding said Company to pay said cheek.” It is impliedly admitted (and the fact is) that it was agreed by both Mr. Gove, as secretary of respondent company, and by Mr. Baum, as its attorney, that the Guaranty Savings and Loan Company would pay the cheek upon conditions specified in their correspondence.
+We have examined and re-examined the record and exhibits in this case and in face of the findings of the trial court, (a) that there was no new agreement; (b) that Baum did not have authority to make a new contract binding on the trust company.; and, (e) that there was no estoppel; we are unable to say, either as a matter of fact or law, that the findings are erroneous or not supported by the evidence. No evidence was introduced as to the authority or lack of authority of Gove, the secretary, or Baum, the attorney, to make the contract or bind the company, except that the one was secretary and the other was attorney. Appellant rests its case on what it claims are presumptions of law arising from the nature of the duties of secretary and attorney, under such circumstances, citing in support thereof: Sundheim, B. & L. Assns., 3d ed., p. 70; Citizens Bank & Trust Co. v. Pocatello Milling etc. Co., 41 Ida. 403, 240 Pac. 186; Pettengill v. Blackman, 30 Ida. 241, 164 Pac. 358; Hammitt v. Virginia Min. Co., 32 Ida. 245, 181 Pac. 336; 9 C. J., p. 928.
+In the absence of proof, as is the case here, the court cannot hold, as a matter of law, that the secretary of a savings and loan company, as an incident to his office, had the power to obligate his company to pay a check, the liability for which had already been legally discharged through the regular course of banking exchange. (U. S. Bldg. & Loan Assn. v. France, supra.) It would require proof that the directors or governing board had either vested the secretary with such general powers or had specially authorized him to act in the particular case. (Home Builders Co. v. Reddin, 97 Colo. 232, 48 Pac. (2d) 800, 802; Home Bldg. & Loan Assn. v. Barrett, 160 Mo. App. 164, 141 S. W. 723, 727; 2 Fletcher, Cyc. Corp., sec. 637, p. 559.) The same is true with reference to the attorney for such a company. (Storey v. United States F. & G. Co., 32 Ida. 388, 183 Pac. 990; see Dwight v. Hazlett, 107 W. Va. 192, 147 S. E. 877, 66 A. L. R. 102, and note at 107; Falkenstein v. Gibson, 108 N. J. Eq. 251, 154 Atl. 876, 76 A. L. R. 1457 and note.)
+Again, we fail to find where any consideration passed that would support such a promise (6 E. C. L., p. 916, sec. 301); nor do we find anything in the nature of an advantage or benefit obtained by the trust company or detriment or loss suffered by the loan company that would constitute an estoppel: (Southern Mfg. Co. v. Moss Mfg. Co., 13 Ga. App. 847, 81 S. E. 263, 267; Leaf v. Reynolds, 34 Ida. 643, 203 Pac. 458; City of Coeur d’Alene v. Spokane & Inland Empire R. Co., 31 Ida. 160, 169 Pac. 930; 21 C. J., secs. 135, 136, p. 1135.)
+The judgment will be affirmed, and it is so ordered. Costs awarded to respondents.
+Holden and Givens, JJ., concur.
+Morgan, C. J., deeming himself disqualified, did not sit at the hearing or participate in the decision.
+Budge, J., sat at the hearing but expressed no opinion.
