@@ -1,0 +1,42 @@
+---
+court: "Idaho Supreme Court"
+docket: "8405"
+decided: "1956-05-29"
+citations: ["78 Idaho 56", "297 P.2d 1045"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["TAYLOR, C. J., ANDERSON and SMITH, JJ., and BAKER, District Judge, concur."]
+parties: ["Frank V. OLSON, Plaintiff-Appellant, v. FARMERS INSURANCE EXCHANGE, a reciprocal association, duly organized and existing under and by virtue of the laws of the State of California and authorized to do business in the State of Idaho, Defendant-Respondent."]
+source_url: "https://static.case.law/idaho/78/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4490085
+cites_cases: ["71 Idaho 275"]
+---
+
+# Olson v. Farmers Insurance Exchange
+
+## Majority (KEETON, Justice.)
+
+KEETON, Justice.
+The parties will hereinafter be referred to as they appear in the trial court. Appellant will be designated as plaintiff; respondent as defendant.
+February 15, 1955 Frank V. Olson filed a complaint against Farmers Insurance Exchange, described as a corporation. Summons was issued and on February 21, 1955, served. The firm of Hawkins & Miller of Coeur d’Alene was immediately retained by defendant to defend the action, and plaintiff’s attorneys were so advised. Defendant’s counsel also advised plaintiff’s attorneys in a letter: “As soon as we get the complete files an appropriate appearance will be entered”, signed Wm. S. Hawkins. Defendant’s counsel also advised plaintiff’s counsel that defendant was not a corporation but a reciprocal association.
+Thereafter on June 7th plaintiff petitioned for authority to file an amended complaint. In the petition plaintiff stated among other things that defendant was not a corporation as alleged in the original complaint but was, in fact, a reciprocal insurance concern, and “that it is necessary to make a change of designation”. Further, “that although the company has been served and has requested time to appear, they have not appeared and plaintiff believes they will not do so, attempting to rely upon the technicality that they are a reciprocal association.”
+An amended complaint was 'filed on June 7, 1955, an alias summons issued and served. On June 21, 1955, defendant’s attorneys in a letter advised Mr. Whitla of the firm of Whitla & Knudson “I am in correspondence with the defendant and as soon as I have a reply an appropriate appearance will be entered.”
+No appearance was made and on September 28th default of defendant was entered, proof submitted, findings of fact and conclusions of law made, and judgment entered against defendant for a total sum in excess of $32,000. On learning of the default judgment, Hawkins & Miller immediately petitioned and moved the court to set the same aside.
+In an affidavit in support of the motion, made by Wm. S. Hawkins, a member of the firm, he deposed that he had advised the firm of Whitla & Knudson of the improper designation of defendant in the original complaint and heard nothing more of the matter until about June 17th, and had thereafter on June 21st advised plaintiff’s attorneys that he was corresponding with defendant and as soon as he had a reply an appropriate appearance would be entered; that thereafter he corresponded with defendant Company for the purpose of securing facts and information for the preparation of an answer; that he had sent an answer to defendant prior to the entry of the default and asked for further information and for approval of the answer; that he had not mailed such answer to defendant Company until September 28th and as soon as he received same it would be served and filed. Further that over a period of years it had been a custom between opposing counsel in the present suit not to cause a default to be entered without notice; that the practice and procedure followed in the instant suit was in substance a neglect or failure of counsel retained by defendant to protect such defendant’s interest, and affiant also offered to pay all costs and expenses necessarily occasioned by such neglect. Counsel also submitted a copy of the ■ answer which had been mailed to defendant. Mr. Hawkins further deposes that the information necessary to prepare the answer was received in his office sometime between the 7th and 22nd of July, during a period of time when he was away from the office, and he did not pay immediate attention to the preparation of the answer until after the middle of September.
+A counter-affidavit was filed by Mr. Whitla, the general purport of which was to show negligence and inexcusable neglect on the part of defendant company and not on the firm of Hawkins & Miller. The motion to set aside the default and judgment was heard, and on November 21, 1955, the Honorable Clay V. Spear, District Judge, found:
+“ * * * that the Default judgment previously entered herein was taken through the neglect or failure of said counsel [Wm. S. Hawkins] for the defendant to serve and file the proper pleadings to plaintiff’s amended complaint within the time limited therefor, and under the provisions of Sec. 5-905, Idaho Codes, it being mandatory on the Court, under such circumstances, to vacate any Default Judgment so entered, now therefore
+“IT IS HEREBY ORDERED that said motion be and the same is hereby granted and said Default Judgment so entered is hereby set aside and the defendant is hereby allowed ten (10) days from the date hereof within which to file and serve its answer to said amended complaint.”
+From the order vacating the default and setting aside the judgment, appeal was taken to this Court.
+Plaintiff contends that the failure to appear within the time specified in the alias summons was due to negligence of the defendant and not neglect or failure of the attorneys it employed.
+The defendant company timely employed attorneys to represent it and necessarily assumed that its interests would be protected and no default taken.
+The facts necessary for the answer were timely furnished by defendant to defendant’s attorney as requested but due to the circumstances above related the answer was not sooner prepared or filed.
+Sec. 5-905, I.C. provides in part:
+“Whenever any judgment, order or proceeding is taken against a party otherwise without default, through the neglect or failure of any attorney of such party to file or serve any paper within the time limited therefor, the court, or the judge thereof, in vacation, shall, upon application filed within the time above limited, set aside such judgment, order or proceeding and may, in its discretion, require the attorney guilty of such failure or neglect to pay the costs or expenses actually and necessarily occasioned to the opposite party by such failure or neglect, and may, in its discretion, also impose upon such attorney a penalty of not exceeding $100.00. * * * ”
+An examination of the transcript clear discloses that the court was correct in. his conclusion that the failure to appear within the time limited was the fault of defendant’s attorneys and not that of the defendant. Immediately on the service of the summons and complaint defendant retained counsel to defend the action. The attorneys for plaintiff were so advised.
+A similar situation was decided by this Court in Orange Transportation Co. v. Taylor, 71 Idaho 275, 230 P.2d 689. In that case the defendant employed an attorney to defend the action. No appropriate pleading or appearance was filed and plaintiff’s counsel was not advised of the employment. Default was entered and judgment secured and it there appeared, as in this case, that defendant expected the counsel employed to look after its interests. Counsel neglected so to do. The trial court set aside the judgment. This Court affirmed and held:
+“Where an attorney, having ample time to do so, fails to appear and answer for defendant within the time provided and the defendant is otherwise without fault, whether defendant personally engaged the attorney or acted through another is immaterial in determining whether default judgment against him should be set aside.”
+In the present situation we are unable to see where defendant was at fault and are of the opinion that defendant Company was not guilty of inexcusable neglect. It acted as a reasonably prudent person would under the circumstances.
+The order setting aside the default and judgment is affirmed. Costs to respondent.
+TAYLOR, C. J., ANDERSON and SMITH, JJ., and BAKER, District Judge, concur.
