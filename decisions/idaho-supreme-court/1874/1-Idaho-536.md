@@ -1,0 +1,33 @@
+---
+court: "Idaho Supreme Court"
+decided: "1874-01"
+citations: ["1 Idaho 536"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whitson and Hol-lister, JJ., concurred."]
+parties: ["JORDAN W. HYDE, Plaintiff, v. H. O. HARKNESS, Defendant."]
+source_url: "https://static.case.law/idaho/1/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8859523
+---
+
+# Hyde v. Harkness
+
+## Majority (Noggle, 0. J.,)
+
+Noggle, 0. J.,
+delivered tbe opinion.
+Whitson and Hol-lister, JJ., concurred.
+This is a case adjourned from tbe third judicial district, Oneida county, Idaho territory, under section 326 of tbe civil practice act, page 142, of 2 Session Laws of the said territory, for tbe purpose Of deciding tbe motion interposed by tbe defendant, which, after entitling tbe cause, is as follows:
+“Tbe said defendant, by L. P. Higbee, and Johnson and Hyndman, bis attorneys, specially appearing for tbe purpose of this motion, and for none other, makes this, bis special appearance, in tbe above entitled action, and thereupon moves tbe court to dismiss tbe suit herein, for that tbe service in said cause was not made by an officer,'or in any place required by law, in this: that tbe said writ and copy of complaint were served on this defendant by one Morgan, sheriff of Oneida county, outside of and beyond the limits of bis bailwick, viz., at tbe residence of this defendant, located and situated on tbe United States reservation, known as tbe Bannock or Port Hall reservation, within tbe exclusive jurisdiction of tbe United States government, and without the boundaries and jurisdiction of said Oneida county. Signed, L. P. HIGBEE and
+“JOHNSON & HYNDMAN,
+“Attorneys for defendant for the purpose of this motion only.”
+Which motion is marked filed by the clerk of the court October 29, 1873. Afterwards the court adjourned said cause into the supreme court for a decision. After entitling said cause the district court says: “ This cause came on regularly for a hearing on this fifth day of November, being still of the October term, 1873. Upon the motion of the defendant to dismiss this action for a want of legal service of summons, Jo. W. Huston and E. E. Ensign, Esqrs., appearing as attorneys for plaintiff, and E. P. Johnson and L. P. Higbee, Esqrs., appearing specially for defendant, only for the purposes of said motion; and the said parties plaintiff and defendant, by their said attorneys, having agreed and stipulated, for the purposes of said motion, in open court, that the service of the summons herein was made at the place, in the manner, and by the person set forth in the affidavit of H. O. Harkness filed herein; and it appearing to the court that the decision of said motion must turn upon important and doubtful principles of law; it is now hereby by the court ordered, by and with the consent of the parties aforesaid, by their attorneys aforesaid in open court signified and given, that this cause be, and is, hereby adjourned into the supreme court of said territory for the decision of said motion, according to the law and justice of the ease.
+.“Signed, M. E. HOLLISTEB,
+“Judge, etc.”
+The only question made by this order and the motion of the defendant is, did the court for the purposes of this case have jurisdiction of the party served with process by the sheriff of the county on the Indian reservation mentioned in this case ?
+We are referred to 15 United States Statutes at Large, 673, 674, which contains the greater portion of a treaty with the Shoshone and Bannock tribes of Indians on the part of the United States; the second article of which is as follows, to wit:
+Article II. It is agreed that whenever the Bannocks desire a reservation to be set apart for their use, or whenever the president of the United States shall deem it advisable for them to be put upon a reservation, he shall cause a suitable one to be selected for them in their present country, which shall embrace reasonable portions of the “PortNeuf and Kansas (doubtless meaning Gammas) Prairie” countries, and that when this reservation is declared, the United States will secure to the Bannocks the same rights and privileges therein, and make the same and like expenditures therein for their benefit,' except the agency house and residence of agents, in proportion to their numbers as herein provided for the Shoshone reservation. The United States further agrees that the following district of country, to wit: Commencing at the mouth of Owl creek and running due south to the crest of the divide between the Sweetwater and Papo Agie rivers, thence along the crest of said divide and the summit of Wind river mountains to the longitude of north fork of Wind river, thence due north to mouth of said north fork, and up its channel to a point twenty miles above its mouth, thence in a straight line to headwaters of Owl creek, and along the middle of the channel of Owl creek to the place of beginning, shall be and the same is set apart for the absolute and undisturbed use and occupation of the Shoshone Indians herein named, and for such other friendly tribes or individual Indians as from time to time they may be willing with the consent of the United States, to admit amongst them; and the United States solemnly agrees that no persons except those herein designated and authorized so to do, and except such officers, agents, and employees of the government as may be authorized to enter upon Indian reservations in discharge of duties enjoined by law, shall ever be permitted to pass over, settle upon, or reside-in the territory described in this article for the use of said Indians; and henceforth they will, and do hereby relinquish all title, claims, or rights in and to any portion of the territory of the United States except such as is embraced within the limits aforesaid.”
+This article gives to these tribes more extended privileges than any other portion of such treaty, and we can find nothing in the treaty from article I to article XHI inclusive, which sustains the doctrine that a white person may settle upon any portion of this reservation, and while there, be exempt from any of the duties he owes to his government or non-amenable to its process, no matter whether that process be municipal or otherwise, provided, such municipality includes within its limits such reservation.
+From all the examination of the record in this case and the authorities to which we have been referred, we are of the opinion that this case should be remanded to the district court with instructions to overrule the defendant’s motion and to proceed with the case as in other cases, and it is so ordained.
