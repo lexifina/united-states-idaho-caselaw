@@ -1,0 +1,35 @@
+---
+court: "Idaho Supreme Court"
+docket: "9747"
+decided: "1966-06-22"
+citations: ["91 Idaho 74", "415 P.2d 717"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McFADDEN, C. J., McQUADE and SPEAR, JJ., and SCOGGIN, D. J., concur."]
+parties: ["Theodore John STARKEY, Plaintiff-Appellant, v. STATE of Idaho, Defendant-Respondent."]
+source_url: "https://static.case.law/idaho/91/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8584123
+cites_cases: ["12 L.Ed.2d 311", "14 L.Ed.2d 992", "143 Mont. 498", "161 Kan. 667", "182 So.2d 467", "203 P.2d 513", "206 A.2d 737", "33 Cal.2d 534", "350 F.2d 240", "377 U.S. 948", "378 U.S. 478", "381 U.S. 618", "392 P.2d 76", "405 P.2d 751", "43 N.J. 572", "84 S.Ct. 1359", "95 Ariz. 292"]
+---
+
+# Starkey v. State
+
+## Majority (TAYLOR, Justice.)
+
+TAYLOR, Justice.
+Plaintiff (appellant) was in District Court in Ada county convicted of burglary of the first degree upon his plea of “guilty of burglary in the first degree as charged in the information,” on November 14, 1963, and was sentenced to imprisonment in the state penitentiary for a term of not to exceed fifteen years.
+The court minutes, of the arraignment for plea, dated November 12, 1963, show that plaintiff (defendant in that proceeding) was asked by the court if he was represented by counsel, to which he answered in the negative; and that he was then asked if he desired to have counsel to defend him, to which he answered that he did not.
+June 24, 1964, plaintiff filed a petition for writ of error coram nobis, on the grounds that (1) his plea of guilty was entered under duress, (2) he was denied an attorney at the preliminary hearing, and (3) the state failed to produce witnesses against him and failed to prove his guilt beyond a reasonable doubt. This motion was denied by the court by order of June 30, 1964.
+July 6, 1964, plaintiff filed a motion for withdrawal of his plea of guilty, alleging that it had been entered under duress, and without advice of counsel. August 6, 1964, plaintiff filed a petition for writ of habeas corpus, again urging that his plea had been entered under duress. The writ was issued and a hearing was had upon the return thereof, September 9, 1964, at which time oral and documentary evidence was presented by the parties. September 28, 1964, the court made and entered findings of fact, conclusions of law, and judgment quashing the writ and denying the motion to withdraw the guilty plea. The court found that plaintiff had not been misled or coerced by any statement or act of any officer, or of the prosecuting attorney; and that he had not been deprived of his independent judgment in entering his plea of guilty. The court also found:
+“That the Petitioner is above average in intelligence and was capable of weighing the consequences of his act in view of the advice he had been given by the officers and the Prosecuting Attorney; that he was in a position to weigh his chances of succeeding if he were to plead not guilty; that he understood the situation to the extent that he attempted to bargain with the officials of the State of Idaho on two different occasions in order to obtain a more favorable disposition of his case.”
+The record also shows that plaintiff had had previous experience as an accused in felony proceedings.
+. July 6, 1965, plaintiff initiated this present proceeding by filing another motion for withdrawal of plea of guilty, and another petition for writ of habeas corpus. The grounds alleged in this motion and petition, with one exception, were the same grounds as alleged in his previous motion and petition, upon which a hearing -was had, and upon which findings, conclusions and judgment were entered against him. The one exception is that he now alleges he was denied an attorney at the time of interrogation.
+The motion and petition were denied on the ground that all issues, except lack of counsel-at interrogation, were res adjudicata. As to lack of counsel at interrogation, the court held that none was required.
+The term, res adjudicata, may be too broad in scope for application in habeas corpus proceedings, since it contemplates that issues which could, or should, have been litigated in a prior proceeding, as well as those actually tried, are concluded by the judgment therein. In habeas corpus the petitioner is concluded only on issues actually tried and determined. He is not, as a' matter of right, entitled to a subsequent writ unless he can present some new issue of fact or law upon which he has not had a hearing. State v. Johnson, 43 N.J. 572, 206 A.2d 737 (1965); Petition of McGrath, 143 Mont. 498, 392 P.2d 76 (1964); Applications of Oppenheimer, 95 Ariz. 292, 389 P.2d 696 (1964), Cert. den. 377 U.S. 948, 84 S.Ct. 1359, 12 L.Ed.2d 311; Ex parte Horowitz, 33 Cal.2d 534, 203 P.2d 513 (1949); Nicolay v. Kill, 161 Kan. 667, 170 P.2d 823 (1946).
+As to lack of counsel at time of interrogation, plaintiff does not allege that any interrogation by police officers took place. Plaintiff having entered a plea of guilty, no trial was had. No witnesses were called. No statements or admissions attributable to plaintiff were offered in evidence against him. Of the sixty-six witnesses, whose names were endorsed on the information, few were officers. The only interrogations of plaintiff shown by the record were those conducted by the district judge; first on his arraignment for plea, which was conducted in compliance with I.C. §§ 19-1512 through 19-1516; and second on his arraignment for sentence, which was conducted in compliance with I.C. § 19-2510. On this latter occasion, at the request of the court, the prosecuting attorney made a statement of the case, and plaintiff was sworn and examined as a witness in his own behalf.
+The rule adopted by the U. S. Supreme Court in Escobedo v. State of Illinois, 378 U.S. 478, 84 S.Ct. 1758, 12 L. Ed.2d 977 (1964), is not applicable here for two reasons: (1) The facts do not bring this case within that rule; (2) That rule should not be given retroactive effect. The judgment upon plaintiff’s conviction of burglary had become final before the decision in the Escobedo case was written. See Linkletter v. Walker, 381 U.S. 618, 85 S.Ct. 1731, 14 L.Ed.2d 601, Anno. 14 L.Ed.2d 992 (1965); State v. Johnson, 43 N.J. 572, 206 A.2d 737 (1965); Ruark v. People (Colo.) 405 P.2d 751 (1965); United States v. Pate, 350 F.2d 240 (7th Cir. 1965); Lawrence v. State, 182 So.2d 467 (Fla.1966), and cases there cited.
+Upon plaintiff’s application, we appointed eminent counsel to prosecute this appeal. Appointed counsel filed excellent briefs and capably presented plaintiff’s case to this court. Plaintiff was fairly convicted according to the law, and the rules of practice of this state. No right accorded him by statute or constitution was abridged or denied to him.
+Order affirmed.
+McFADDEN, C. J., McQUADE and SPEAR, JJ., and SCOGGIN, D. J., concur.
