@@ -1,0 +1,30 @@
+---
+court: "Idaho Supreme Court"
+docket: "10612"
+decided: "1971-02-10"
+citations: ["94 Idaho 43", "480 P.2d 889"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McQUADE, C. J., and McFADDEN, DONALDSON and SPEAR, JJ., concur."]
+parties: ["IVERSON PAINTS, INC., a corporation, Plaintiff-Counter-Defendant and Respondent, v. The WIRTH CORPORATION, a corporation, Defendant-Counter-Claimant and Appellant."]
+source_url: "https://static.case.law/idaho/94/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4419743
+cites_cases: ["85 Idaho 331", "85 Idaho 64", "92 Idaho 48", "93 Idaho 248"]
+---
+
+# Iverson Paints, Inc. v. Wirth Corp.
+
+## Majority (SHEPARD, Justice.)
+
+SHEPARD, Justice.
+This case involves an action to recover the purchase price of paint and defendant’s affirmative defense and counterclaim alleging a breach of warranty for paint sold at an earlier time by plaintiff to defendant. At the conclusion of the evidence plaintiff made a motion to strike the affirmative defense and for dismissal of the counterclaim. The motions were granted and a verdict was then directed for the plaintiff. We affirm the actions of the trial court. Plaintiff-counter-defendant and respondent (hereinafter Iverson Paints) is a corporation engaged in the retail paint supply business and engages in special development of new paints. Defendant-counter-claimant and appellant (hereinafter Wirth) is engaged in the shaping of lumber into items for use in construction and the majority of their business is in moldings and edgings.
+Appellant Wirth asserts that it was error for the trial court to' grant dismissal of its counterclaim and direct a verdict in favor of Iverson Paints. Essentially Wirth argues that the case presented proper questions of fact such as to require determination by the jury.
+Wirth had in 1968 obtained a specially built paint application machine which was fully automatic. It contacted Iverson Paints for the development of a paint which would produce an exact shade of color, have certain gloss and adhesive qualities, as well as certain sealing qualities. Molding strips were to be fed into the automatic application machine at a high rate of speed. After a great deal of trial and error experimentation, a satisfactory formula for paint was developed. After full production was reached by Wirth it was discovered that the overspray in the automatic machine was in the neighborhood of 40 per cent. Because of the design of the machine, certain paint would not strike the molding strips but instead would strike the sides of the chamber and be recaptured in a receptacle in the bottom of the chamber. Thereafter, a formula was developed by Iverson Paints for reclaiming the overspray. The formula was very precise and worded in terms of gallons of overspray to gallons of a special thinner and a gloss retardant to be supplied by Iverson Paints. This mixture could then be reused, but could not be mixed with the original formula paint.
+The testimony revealed that the operator of the machine, rather than following the directions received from Iverson Paints, would use common cleaning thinner and that no exact amount of such thinner was added to any precise amount of the over-spray. No evidence was presented to indicate that Iverson Paints knew of or agreed to that procedure by Wirth and its employees. In addition, a large amount of the overspray formula was mixed with the original formula and reused again. This process adopted by Wirth was used on an order of material which was sent to and rejected by a buyer in Indiana. No evidence was presented as to the reason for rejection of the shipment and one of Wirth’s employees testified that the bundles of the materials had apparently been unopened by the buyer. It is undisputed, however, that the said materials, when opened by Wirth, were unsatisfactory insofar as the paint application thereon was concerned.
+Thereafter Wirth continued to buy paint from Iverson Paints but did not pay the full amount owing on its bills. Iverson Paints then brought the present action to recover the purchase price of the additional paint and Wirth counterclaimed for the loss of the Indiana order claiming a breach of warranty. As aforesaid, Iverson Paints moved and the court granted motions for involuntary dismissal of the counterclaim and a directed verdict. From the granting of said motions Wirth appeals.
+A motion for a directed verdict admits the truth of all of the adversary evidence and every inference legitimately and logically flowing therefrom. Bratton v. Slininger, 93 Idaho 248, 460 P.2d 383 (1969); Fawcett v. Irby, 92 Idaho 48, 436 P.2d 714 (1968). A motion for a directed verdict should not be granted unless reasonable minds could not differ on the result after admitting the truth of the adversary evidence and all of its inferences. Conklin v. Patterson, 85 Idaho 331, 379 P.2d 428 (1963); Anderson v. Blackfoot Livestock Commission Co., 85 Idaho 64, 375 P.2d 704 (1962).
+We have viewed all of the evidence presented by Wirth in its most favorable light and have taken all legitimate and logical inferences that reasonably flow therefrom .and conclude nevertheless that the motion for the directed verdict was properly granted. There was no showing that the paint furnished by Iverson Paints did not meet all specifications which were the basis of the bargain between the parties. The failure of Wirth to follow the formula provided by Iverson Paints for the reclamation procedure precludes reasonable minds from finding evidence that the paint was not reclaimable. For the same reasons it was also proper for the trial court to dismiss the counterclaim of Wirth. There was no showing as to why the shipment of material had been rejected or that the proper use of the reclamation formula would have brought about a rej ection.
+The judgment of the trial court is affirmed. Costs to respondent.
+McQUADE, C. J., and McFADDEN, DONALDSON and SPEAR, JJ., concur.
