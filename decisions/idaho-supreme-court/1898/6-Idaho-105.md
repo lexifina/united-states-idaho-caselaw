@@ -1,0 +1,22 @@
+---
+court: "Idaho Supreme Court"
+decided: "1898-05-09"
+citations: ["6 Idaho 105", "53 P. 104"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sullivan, C. J., and Quarles, J., concur."]
+parties: ["VERMONT LOAN AND TRUST COMPANY v. TETZLAFF."]
+source_url: "https://static.case.law/idaho/6/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8585445
+cites_cases: ["1 S. W. 689", "22 Am. St. Rep. 402", "49 Pac. 314", "51 Minn. 485", "53 N. W. 767", "61 Cal. 439", "85 Tenn. 76"]
+---
+
+# Vermont Loan & Trust Co. v. Tetzlaff
+
+## Majority (HUSTON, J.)
+
+HUSTON, J.
+— This is an action brought by the plaintiff to foreclose a mortgage executed by the defendants Aaron Tetzlaff and Minnie Tetzlaff, his wife, to the plaintiff, to secure the payment of the sum of $1,125, with interest, on the first day of January, 1897, which indebtedness is evidenced by one principal note for said sum of $1,125, payable, with interest at the rate of seven per cent per annum, on said first day of January, 1897, to which said principal note is attached five coupon interest notes, bearing even date with said principal note, and signed by said Aaron Tetzlaff and Minnie Tetzlaff, his wife, and payable, respecively, on the first day of January, 1893, 1894, 1895, 1896, and 1897. Each of said coupon interest notes bears interest at the rate of twelve per cent per annum after maturity. It was provided in said principal note that if default should be made in the payment of any interest note, or any part thereof, for the space of ten days after the same should become due and payable, then said principal and accrued interest should, at the election of the holder of said note, become at once due, without further notice. Said defendants Tetzlaff, as is alleged in the complaint, duty paid said interest coupon notes due, respectively, on the first day of January, 1893 and 1894, as the same become due; but to pay the interest coupon note which fell due January 1, 1895, said defendants Tetzlaff neglected and refused, whereupon plaintiff, under the provisions contained in said principal note and mortgage, elected to, and did, declare the said principal sum, and all accrued interest thereon, then due, and on the 30th of September, 1895, commenced this action to foreclose said mortgage. The complaint contains a prayer for the reformation of the mortgage sued on, in certain particulars. The defendants Derham and Kaufman made default. The defendants’ Aaron Tetzlaff and Minnie Tetzlaff filed a demurrer to the complaint, setting up first that the complaint does not state facts sufficient to constitute a cause of action, and also other specific grounds, which, under our view of the case, it is not essential to consider. The principal debt, to secure which, with the interest, the mortgage was given, was not due at the time the suit was commenced to foreclose, nor would it be until a year and three months thereafter. The plaintiff’s right to commence suit to foreclose its mortgage, therefore, must rest entirely upon the aforementioned provision in the principal note and mortgage, to wit, the failure by defendants to pay any or either of said coupon interest notes, or any part thereof, as the same become due and payable. We held in Trust Co. v. Hoffman, 5 Idaho, 376, 49 Pac. 314, that such coupon interest notes were usurious and void, under the provisions of section 1266 of the Eevised Statutes of Idaho. Could the failure by the defendants to pay a debt which they could not be required to pay, for the reason that it was void, be made a predicate upon which to base an action against them for the recovery of a ■debt which could only be declared to be then due because of defendants’ failure or refusal to pay such void debt? We think not. Under the statutes of this state and the decisions of this •court thereon, the plaintiff could only recover the principal debt, without interest or costs. The recovery of the principal debt being the limit of its remedy, it could only invoke that remedy after the principal debt became due. The action was prematurely brought. The judgment of the district court is reversed, ■and the cause is remanded to the.district court, with instructions to dismiss the complaint. Costs to appellants.
+Sullivan, C. J., and Quarles, J., concur.
