@@ -1,7 +1,7 @@
 ---
 court: "Idaho Supreme Court"
 decided: "1916-04-25"
-citations: ["29 Idaho 85", "158 P. 383", "29 Idaho 82", "157 P. 382"]
+citations: ["29 Idaho 85", "158 P. 383"]
 reporter: "idaho"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["JOHN V. FARWELL COMPANY, a Corporation, Respondent, v. GLENN B. CRANE
 source_url: "https://static.case.law/idaho/29/cases/0085-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2321074
-cites_cases: ["1 N. Y. Supp. 919", "100 Ga. 739", "103 Ala. 582", "103 Wis. 39", "11 Ida. 364", "11 La. 286", "11 Pac. 590", "111 N. Y. Supp. 736", "116 Cal. 71", "117 Pac. 1041", "12 S. D. 483", "12 Utah, 157", "120 Cal. 403", "127 App. Div. 672", "128 Pac. 225", "131 Pae. 1135", "133 U. S. 78", "138 Mo. 576", "14 C. C. A. 444", "14 Colo. App. 526", "14 N. Y. Supp. 14", "143 Fed. 312", "15 So. 916", "16 Cal. App. 403", "18 Colo. App. 378", "18 Utah, 279", "20 Utah, 474", "25 Ida. 333", "30 Am. Dec. 718", "31 Colo. 40", "32 Mont. 143", "32 Pac. 536", "37 S. W. 916", "38 Atl. 792", "38 L. R. A. 804", "39 Colo. 127", "39 Colo. 133", "40 S. E. 344", "42 S. W. 507", "43 Wash. 95", "47 Pac. 872", "49 Hun, 195", "49 Neb. 88", "5 Wash. 527", "52 Pac. 655", "55 Pac. 306", "55 Pac. 385", "59 Hun, 626", "59 Pac. 399", "59 Pae. 967", "6 Sup. Ct. 865", "60 S. E. 874", "67 Fed. 388", "68 N. W. 383", "69 Conn. 709", "70 Cal. 144", "71 Pac. 889", "71 Wash. 258", "72 Minn. 320", "73 Wash. 315", "74 C. C. A. 450", "75 N. W. 378", "76 Pae. 922", "79 N. W. 20", "79 Pac. 698", "8 Wyo. 58", "81 N. W. 907", "86 Pac. 205", "88 Pac. 1064", "90 Pac. 1124"]
+cites_cases: ["1 N. Y. Supp. 919", "100 Ga. 739", "103 Ala. 582", "103 Wis. 39", "11 Ida. 364", "111 N. Y. Supp. 736", "116 Cal. 71", "127 App. Div. 672", "133 U. S. 78", "14 C. C. A. 444", "14 Colo. App. 526", "14 N. Y. Supp. 14", "143 Fed. 312", "15 So. 916", "18 Utah, 279", "31 Colo. 40", "32 Mont. 143", "32 Pac. 536", "38 Atl. 792", "38 L. R. A. 804", "40 S. E. 344", "42 S. W. 507", "43 Wash. 95", "47 Pac. 872", "49 Hun, 195", "5 Wash. 527", "55 Pac. 385", "59 Hun, 626", "59 Pae. 967", "60 S. E. 874", "67 Fed. 388", "69 Conn. 709", "72 Minn. 320", "74 C. C. A. 450", "75 N. W. 378", "76 Pae. 922", "79 N. W. 20", "79 Pac. 698", "86 Pac. 205"]
 ---
 
 # John V. Farwell Co. v. Craney
