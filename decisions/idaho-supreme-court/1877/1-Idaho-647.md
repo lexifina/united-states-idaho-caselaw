@@ -1,0 +1,36 @@
+---
+court: "Idaho Supreme Court"
+decided: "1877-01"
+decided_precision: "month"
+citations: ["1 Idaho 647"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hollister, C. J., concurring specially. Prickett, J., also concurred."]
+parties: ["JOHN GORMAN, Appellant, v. THE COMMISSIONERS OF BOISE COUNTY, Respondents."]
+source_url: "https://static.case.law/idaho/1/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8861093
+---
+
+# Gorman v. Commissioners of Boise County
+
+## Majority (Clark, J.,)
+
+Clark, J.,
+delivered the opinion,
+Hollister, C. J., concurring specially. Prickett, J., also concurred.
+This is a controversy without action, brought under sections 567, 568, and 569 of the revised laws of this territory, which provide that parties to a question in difference, which might be the subject of a civil action, may, without action, agree upon a case containing the facts upon which the controversy depends, and present a submission of the same to any court which would have jurisdiction if an action had been brought.
+In this case the agreed statement of facts admits that John Gorman, the appellant, is the assessor and tax collector of Boise county, and, as such, is entitled to the compensation provided by law for the discharge of his official duties. It is also admitted by the respective parties, that the real controversy and questions of difference in this case is the amount of percentage allowed by law to the assessor and tax collector of Boise county for collecting the road tax of said county, and also as to whether said tax collector is entitled to any compensation in the nature of percentage for collecting the school tax or revenue for school purposes.
+The board of county commissioners of Boise county maintain that the assessor and tax collector of said county is entitled to ten per cent, only on all road taxes collected by bim, and that be is not entitled to any fee or compensation whatever for collecting the school tax.
+The appellant, John Gorman, assessor and tax collector of said county, claims and maintains that be, 'as such officer, is entitled to fifteen per cent, on all road taxes, and five per cent, on the amount of school taxes collected by bim in said county. Upon the foregoing statement of facts and claims of the respective parties, the court below rendered its decision in writing, in substance and to the effect, that the assessor and tax collector of Boise county was not entitled to any fee or compensation whatever for collecting the school tax of said county, and as such officer was entitled to ten per cent, only on all road tax collected by him. From this decision the said assessor and tax collector appeals to this court.
+On a review of the statute concerning roads and high- ' ways in Boise county, we find that the legislature of this territory, on the tenth day of January, 1878, passed an act entitled "an act concerning roads and highways in Boise county;” this act repeals all acts and parts of acts in conflict with its provisions. Section 5 reads as follows: "There shall be levied and collected,- on able-bodied men in each district, a road tax of not more than three dollars, the same to be collected by the tax collector of said county in the same manner as other per capita tax are levied and col-?, lected, and under the same process for the enforcement of the payment thereof.” From the language in this section, we conclude that the legislature intended this tax as a per capita tax. Section 6 provides that the tax collector should retain ten per cent, of the amount as collected, in full compensation for his services. This law governed the amount of compensation which the tax collector was entitled to, until the twenty-ninth of December, 1874, at which time the legislature of this territory passed an act entitled “an act fixing the salaries and fees of certain officers in Boise county.” Section 4 of this last act provides "that the assessor of Boise county shall receive fifteen per cent, of all poll or per capita tax collected, and five per cent, of all other taxes assessed and collected, for his services as assessor and tax collector.” The act of December 29, 1874, repeals all acts and parts of acts in conflict with its provisions, and fixes the compensation.of the assessor at fifteen per cent, of all per capita tax. The road tax being a per capita tax, he was under this last act entitled to fifteen per cent, of the tax collected for his services. This was the law at the date of the submission of this controversy, and must govern the decision of this case, so far as the same relates to the fees or compensation of the assessor of Boise county for collecting road tax.
+The assessor and tax collector of Boise county claims that under this last act he is entitled to five per cent, of all other taxes assessed and collected by him, and that the same include school tax. By reference to the school law it will appear that said law was passed subsequent to the act fixing the salaries and fees of certain officers in Boise county, to wit: on the fifteenth day of January, 1875. This act repeals all other acts and parts of acts on the subject to which it relates. It is a general law, and subsequent to the act fixing salaries and fees in Boise county, and repeals so much of the same as relates to fees for collecting other than per capita tax, to wit: so much thereof as is repugnant to section 4 of the school law, which reads as follows: “Section 4. That the tax collectors and treasurers of the respective counties shall not receive any fee or percentage for collecting, holding, and disbursing of the moneys so received from said taxes and set apart for .public school purposes, but they shall perform such duties without fee or reward.”
+In consideration of the premises, it is the opinion and order of this court that the judgment in the court below be affirmed so far as the same relates to the collection of school tax under the school law, and that the same be modified so that the assessor and tax collector may retain fifteen per cent, on all road taxes collected by him in full compensation for his services.
+It is further ordered, that the costs herein be taxed in favor of the appellant, and that judgment in the court below be entered in accordance with this opinion.
+
+## Concurrence (Hollister, C. J.,)
+
+Hollister, C. J.,
+concurring.
+I concur in the opinion and judg'ment in this case, but it is due to myself to add that when it was beard by me no briefs nor authorities were furnished by either party, and I was entirely ignorant of the passage of the act of the twenty-ninth of December, increasing the fees for collection of road taxes referred to in the opinion. This act was never published, and no copies, I believe, were ever furnished to the respondents, nor any information given of its existence. As the act was local in its character, and related solely to the fees and compensation of the several officers of Boise county, it may safely be assumed that the appellant knew of its provisions, and in fairness, it seems to me, should have referred me to it.
