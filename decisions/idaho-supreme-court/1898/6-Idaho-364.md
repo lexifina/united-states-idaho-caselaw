@@ -1,0 +1,23 @@
+---
+court: "Idaho Supreme Court"
+decided: "1898-12-29"
+citations: ["6 Idaho 364", "55 P. 857"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sullivan, C. J., and Quarles, J., concur."]
+parties: ["PETERS v. LEFLANG."]
+source_url: "https://static.case.law/idaho/6/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8586167
+cites_cases: ["13 Pac. 655", "26 Idaho, 125", "26 Pae. 125", "30 Cal. 573", "5 Idaho, 739", "51 Pac. 779", "67 Cal. 41", "7 Pac. 34", "72 Cal. 248"]
+---
+
+# Peters v. Leflang
+
+## Majority (HUSTON, J.)
+
+HUSTON, J.
+— The plaintiff, as road overseer, sued the defendants to abate a nuisance created and maintained by defendants in the erection and maintenance of a fence upon and across the public highway within the road district of the plaintiff. Plaintiff, in his complaint, prays for a judgment abating the nuisance, and also for the statutory penalty of ten dollars per day, during its continuance after notice. Defendants, answering, denied all the allegations of the complaint. The case was tried before the court with a jury, and on the 26th of June, 1897, the jury returned a special verdict, all of the findings thereof being in favor of the plaintiff. On the 16th of July, 1897, the court announced from the bench that it adopted the verdict of the jury as its findings, and on the 19th of July, 1897, rendered judgment that the defendants remove the said obstructions from the highway forthwith, and that the plaintiff recover his costs. On the seventeenth day of July, 1897, the plaintiff filed and served upon defendants’ attorney of record his duly verified memorandum of costs and disbursements in said cause, as required by section 4912 of the Eevised Statutes as amended by act of 1895, which is as follows: “The party in whose favor the judgment is rendered and who claims his costs, must, within five days after the verdict or notice of the decision of the court or referee, file with the clerk, and serve upon the adverse party or his attorney, a copy of a memorandum of the items of his costs and necessary disbursements in the action or proceeding, which memorandum must be verified by the oath of the party or his attorney or agent, or by the clerk of his attorney, stating that to the best of his knowledge and belief, the items are correct and that the disbursements have been necessarily incurred ini the action or proceeding. A party dissatisfied with the costs claimed may, within five days after the service upon him of the copy of the memorandum, file and serve upon the adverse party or his attorney a notice of a motion to have the same taxed by the court in which the judgment was rendered, or by the-judge thereof at chambers.” On July 22, 1897, defendants filed, motion to quash said cost-bill, for the reason that the same-was not filed and served within the time prescribed by section 4912 of the Bevised Statutes. On the twenty-eighth day of' December, 1897, said motion was argued, and on the same day overruled by the court. This appeal is from the judgment, and from the order overruling the defendants' motion to quash.
+Counsel for appellants contends that, as the special verdict or findings of the jury were rendered on the 26th of June, the-time within which plaintiff must file and serve his memorandum, of costs and disbursements commenced to run from that day.. Counsel insists that “a -verdict is a verdict,” and perhaps, as an abstract proposition, its verity may be conceded. But in this case the verdict was merely advisory. The court, it seems, treated this case as a suit in equity for the abatement of a nuisance, and quite properly, we think. The fact that the complaint asked for damages under the statutes does not, in our view, necessarily change the character of the action. The “findings of the jury,” as they are denominated in the record, did not become the verdict in the case, in the sense that term is used in section 4912, until they had been adopted by the court. Suppose the court, upon consideration (and it took twenty days to-come to a determination), had concluded to set aside the findings of the jury, make findings of its own, and rendered a judgment in favor of the defendants; in what position would the defendants have found themselves with regard to their costs, if their construction of the statute is to obtain? We do not think the contention of appellants is maintainable. The judgment of the district court is affirmed, with costs to respondent.
+Sullivan, C. J., and Quarles, J., concur.
