@@ -1,0 +1,28 @@
+---
+court: "Idaho Supreme Court"
+decided: "1922-01-21"
+citations: ["35 Idaho 10", "204 P. 145"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Budge, McCarthy, ‘Dunn and Lee, JJ., concur."]
+parties: ["GEORGE W. FROMAN, Respondent, v. FIRST NATIONAL BANK OF WEISER, IDAHO, Appellant."]
+source_url: "https://static.case.law/idaho/35/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2334875
+---
+
+# Froman v. First National Bank
+
+## Majority (REDDOCH, District Judge.)
+
+REDDOCH, District Judge.
+Prior to 1919, J. A. Whittet & Co., a copartnership, as contractors were awarded certain contracts by the state of Idaho, for the construction of .public highways, and thereafter became financially involved and defaulted in the performance of the same, at which time they were indebted to appellant. Respondent who had indemnified the surety company executing the contractor’s bonds for the performance of said contracts, completed the same at a loss of $5,500. At the time of the contractor’s default there was due them from the state $13,200.
+Appellant and respondent became involved in litigation as to which was entitled to this money, and for the purpose, of settling their rights thereto, entered into two written agreements, one dated March 12, 1919, and a supplemental agreement dated March 25th of that year, which provided that the money should be released by the state, appellant receiving two-thirds thereof and respondent one-third, the same to be applied in this proportion to the payment of the obligations of Whittet & Co. upon mutual agreement of the parties. The supplemental agreement provided that appellant would pay respondent two-thirds of the amount of any judgment that might be entered in the ease of Morris Sommer Co. v. J. A. Whittet & Co. and certain intervenors, then pending in the district court of the seventh judicial district for Washington county, or any other court where said claims might be prosecuted to final judgment.
+Judgment was entered in said cause on December 6, 1919, and became final, and on April 10, 1920, it amounted, including interest and costs, 0 to $5,982.24, which sum was on this date paid by respondent in satisfaction thereof, and demand was made upon appellant to pay respondent two-thirds of this sum, which it failed to do, and respondent then .sued therefor. At the trial respondent stood upon the pleadings, contending that all the material allegations of the complaint were admitted, and offered no evidence.
+Counsel for appellant then requested permission of the court to supply certain omissions in the answer by inserting certain figures in blank spaces therein. This request was granted and the answer as amended alleged that $3,250 of the claims merged in the judgment were not lienable, and that claims to the amount of $418.49 included therein had been paid before the judgment was entered. Testimony was then offered on behalf of appellant and the cause submitted.
+After the submission of the cause and before the decision thereof, counsel for appellant requested that the cause be reopened, and filed in support thereof his affidavit, in which it is stated that at the trial he understood he and respondent ’s counsel, would stipulate on the amounts to be inserted in the blank spaces in the answer and the amounts thus agreed to should be considered as established by competent evidence, that appellant was prepared 'to establish the same by competent evidence at the trial, but owing to his understanding as to the agreement concerning such amounts no proof was offered. The trial court denied this request and rendered judgment in favor of respondent, from which this appeal is prosecuted.
+No brief was filed by counsel for appellant, but at the hearing he argued the case orally and contended that the trial court abused its discretion in denying his application to reopen the ease and allow him to introduce proof in support of the allegations of the answer. The granting or refusing of such request is within the discretion of the trial court and its action will not be disturbed, unless its discretion has been abused. (38 Cyc. 1364.) It must appear that appellant’s counsel through mistake or inadvertence misunderstood the effect of the stipulation and by reason thereof adopted a course which he would not have otherwise pursued, and which, if he was not relieved therefrom, would result in substantial prejudice to appellant.
+The contract dated March 12, 1919, contained a provision which the supplemental agreement in no way modified, that in the event any claims against Whittet & Co. were contested, respondent was *to pay his attorney and one-third of the costs and appellant its attorney and two-thirds of the costs. It thus appears that respondent was under no more obligation to defend the suit of Morris Sommer & Co. v. Whittet & Co. than was appellant, and if it was possessed of information that claims sued upon in said cause to the amount of $3,250 were not lienable and that items involved therein to the amount of $418.49 had been paid, it should have presented this proof to the court upon the trial of said cause. It not having done so, and there being no allegation of fraud on the part of respondent in the conduct of the defense to said action, it is now estopped to urge the same as a defease to this action and therefore not prejudiced by the action of the trial court.
+The judgment is affirmed. Cost's awarded to respondent.
+Budge, McCarthy, ‘Dunn and Lee, JJ., concur.
