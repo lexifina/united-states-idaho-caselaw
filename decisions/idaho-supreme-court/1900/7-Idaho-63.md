@@ -1,0 +1,23 @@
+---
+court: "Idaho Supreme Court"
+decided: "1900-02-05"
+citations: ["7 Idaho 63", "59 P. 931"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quarles and Sullivan, JJ., concur."]
+parties: ["BINGHAM COUNTY AGRICULTURAL ASSOCIATION v. ROGERS."]
+source_url: "https://static.case.law/idaho/7/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8585074
+cites_cases: ["1 Wash. 117", "100 Cal. 26", "111 Cal. 180", "121 Cal. 490", "13 Iowa, 253", "16 Cal. 574", "2 Idaho, 103", "20 Wis. 462", "21 Pac. 837", "23 Pac. 836", "23 S. E. 49", "27 Pae. 650", "29 Pac. 481", "33 Pac. 750", "34 Pae. 636", "40 N. Y. Supp. 804", "41 Pac. 796", "43 Pac. 595", "45 S. C. 388", "47 Cal. 3", "53 Pac. 1073", "6 Pac. 116", "79 Cal. 268", "8 App. Div. 375", "81 Am. Dec. 430", "91 Am. Dec. 428", "91 Cal. 260", "94 Cal. 269", "98 Cal. 658"]
+---
+
+# Bingham County Agricultural Ass'n v. Rogers
+
+## Majority (HDSTON, C. J.)
+
+HDSTON, C. J.
+This is an appeal from an order of the district court, granting a new trial. The complaint purports to be in an action of claim and delivery, and avers ownership of the property sought to be recovered in the plaintiffs on the sixth day of May, 1896; avers value of the property on the sixth day of May, 1896; avers the taking of possession of the property by the defendant on the same date, and his continued holding since that time; avers, generally, that plaintiffs have repeatedly demanded possession. The action was commenced on September 7, 1898. We have earnestly and studiously sought for some authority upon which we could sustain this complaint, but we have failed to do so. The purpose and intention of the code, as we understand it, was to simplify the theretofore complicated and abstruse system of pleadings under the common law; but we do not understand it was intended to obliterate, root and branch, the whole science of pleadings from the practice of law. At common law the action of replevin was an action to recover the possession of specific personal property, and the proceedings were somewhat complicated. By the code it is sought to do away with these complications, in so far as they are not essential to the accomplishment of the end sought. But the elements of the action are the same, and the necessity of stating in the complaint, in clear and concise language, the facts upon which the plaintiff predicates his right to recover, are as imperative under the code as under the old system. In the complaint in this action the plaintiff does not state that, at the time of commencing his action, he was the owner, was in possession, or was entitled to the possession, of the personal property in question. He says that on the sixth day of May, 1896, more than two years before the commencement of this suit, he was the owner of said property. We do not think this a sufficient averment.
+Inasmuch as this case must be remanded for a new trial, we deem it proper to announce our view upon some of the questions of law which will necessarily arise upon a retrial of the case. We think it is the undoubted rule of law that where a person has m good faith entered upon public lands of the United States, and made or caused to be made valuable improvements thereon, although his right to make entry of such lands under the land laws of the United States may be defeated, he is not by reason thereof deprived of Ms property in such improvements, and is entitled to remove them upon reasonable notice, after the question of title has been finally settled-We see no reason why the fences inclosing the premises in this case should be excepted from the plaintiff’s right of recovery. '“In determining whether a thing is a fixture or not, the relation of the parties must be considered.” When the plaintiffs placed the fence around those premises, the land was public land of the United States. The defendant had no color of right or claim thereto. There were no contractual or other relations between plaintiffs and defendant in regard to'the land, nor did the defendant acquire any right to the land until long after said fence had been constructed. We do not think said fence, as between the plaintiffs and defendant, was such a fixture as plaintiffs were not entitled to remove. The order of the district court granting a new trial is affirmed, and the cause remanded, with instructions to allow the plaintiffs to amend their complaint, and for further proceedings in accordance with the views herein expressed.
+Quarles and Sullivan, JJ., concur.
