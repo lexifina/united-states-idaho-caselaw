@@ -1,0 +1,23 @@
+---
+court: "Idaho Supreme Court"
+decided: "1904-05-11"
+citations: ["10 Idaho 1", "76 P. 765"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stockslager, J., and Ailshie, J., concur."]
+parties: ["SMALL v. STATE."]
+source_url: "https://static.case.law/idaho/10/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8584992
+---
+
+# Small v. State
+
+## Majority (SULLIVAN, C. J. —)
+
+SULLIVAN, C. J. —
+This is an application to this court to Rear proofs of the plaintiff’s claim against the state and for a recommendatory decision under section 10, article 5 of the state constitution. To the petition of the plaintiff the attorney general has demurred on three grounds, to wit: 1. That the petition does not state facts sufficient to constitute a cause- of action; 2. That the claim herein presented is barred by the provisions of section 4053 of the Sevised Statutes of Idaho; 3. That no reason is given for not presenting this claim to the state until ten years after the lumber was furnished the state out of which this claim arose. The following facts appear from the petition:
+That in the years 1892 and 1893 the Small-Colby Lumber Company, of which the plaintiff was a member, furnished James M. Wells, Idaho’s Commissioner to the World’s Columbia Exposition, lumber and timber of the value of $5,465.68 for the construction of a state building at Chicago for the state of Idaho. That the said Wells paid $4,000 upon said account, leaving a balance of $1,465.68. That said balance has not been paid, and the reason for nonpayment is alleged to be that the bank in which the moneys were deposited for said purpose failed and said funds were lost, and said commissioner had no funds with which to liquidate said claim. It further appears that on the sixth day of January, 1903, the petitioner duly filed with and presented to the state board of examiners of Idaho, for approval, a written statement of said claim duly itemized and verified. That after an examination thereof by said board said claim was disallowed and rejected. Upon that state of facts this court is asked to hear proofs of said claim and recommend to the state legislature that said claim be paid. The demurrer interposed admits all of the facts alleged. The main contention of the attorney general is that this action is barred by the provisions of section 4053 of the Eevised Statutes. Said section provides that an action upon a contract, obligation or liability not founded upon an instrument of' writing must be brought within four years. It is contended by counsel for respondent that said section does not,apply to-this case because the state cannot be sued, and that this is not an ’action against the state. Technically speaking, that contention' is true, but this -is a claim against the state; and on it this 'court is only authorized to render a recommendatory decision-
+Section 4061 of t'-e Revised Statutes provides as follows: “The limitations prescribed in this title apply to actions brought in the name of the state, or for the benefit of the state,, in the same manner as to actions by private parties.” It will be observed from the section quoted that the statute of limitations applies to the state as well as to private individuals. Of course the claim under consideration is by a private party against the state and comes within the statute of limitations. The legislature intended the statute of limitations to apply equally to the state as well as to private parties. The claim under consideration arose in 1893, more than ten years ago. As far as the record shows, no effort has been made to collect this claim from the state until it was presented to the state', board of examiners in January, 1903, and there are no facts-shown to excuse this long delay in presenting or attempting to ■ collect said claim. As the court could not, under the facts presented, recommend that the legislature make provisions for-the payment of said claim, it would be useless to hear any evidence in regard thereto. We do not mean to say that the statute of limitations would absolutely prohibit the legislature from making an appropriation to pay said claim if it thought advisable to do so, and simply hold that under the facts presented: ihe plaintiff has slept on his rights for so long a time that this' court could not recommend the payment of said claim. It is barred by the statute of limitations. The application is denied and the petition is dismissed.
+Stockslager, J., and Ailshie, J., concur.
