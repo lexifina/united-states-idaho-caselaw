@@ -1,0 +1,23 @@
+---
+court: "Idaho Supreme Court"
+decided: "1899-11-22"
+citations: ["6 Idaho 649", "59 P. 362"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quarles and Sullivan, JJ., concur."]
+parties: ["POTTER v. TALKINGTON."]
+source_url: "https://static.case.law/idaho/6/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8586746
+cites_cases: ["49 Pac. 14", "5 Idaho, 316", "53 Pac. 271"]
+---
+
+# Potter v. Talkington
+
+## Majority (HUSTON, C. J.)
+
+HUSTON, C. J.
+— Por a complete understanding of this case, which is a sort of legal conundrum, it is necessary to state some ancient history. “In the beginning” the Lewiston National Bank brought suit to foreclose a mortgage against TefEt and others. Judgment and decree of foreclosure was made in favor of plaintiff and against defendants. Prom this judgment and decree, appeal was taken by certain of the defendants. This appeal iwas dismissed upon motion of respondent. (Bank v. Tefft, ante, p. 104, 53 Pac. 271.) A question having arisen in said appeal between the clerk of the court and the appellants as to costs incurred on said appeal, the appealing defendants entered into a stipulation, by which they submitted, without action, to the district court, the question involved, which was, in substance, as follows: The appellants, after having prepared their transcript on appeal, submitted the same to the attorney of the respondent for certification or suggestion of amendment. Attorney for respondent refused either to certify or suggest amendments. Attorney for appellants then procured the certification of the clerk, for which that officer made a charge of $150. The said appellants, in Potter v. Talkington, 5 Idaho, 316, 49 Pac. 14, disagreeing with the clerk as to the amount he was authorized to charge for such certification, the parties entered into stipulation or agreement to submit the question involved to the decision of the district court, under the provisions of chapter 2, title 3, part 2, of the Eevised Statutes of Idaho, reserving the right of appeal from the decision of said court to either party. The district court rendered a decision thereon, from which decision the said clerk appealed to this court, where the appeal was dismissed. But this court, however, in view of the fact that the question involved the fees of the clerk, announced its views as to the fees chargeable by such officers in cases like that then under consideration, which were in favor of the contentions of said clerk. (See Potter v. Talkington, supra.) Upon the coming down of the remittitur to the district court in said cause, the attorney for the respondents herein procured, without notice to this appellant, an order from the district court authorizing him to make this appellant a party defendant in said agreed or stipulated case, and requiring him to file and serve a complaint upon said appellant, and that he have sixty days within which to file said complaint. The complaint was not filed within the sixty days, but on the sixty-first day after the order was made respondents’ attorney did file a complaint therein, and serve same upon the attorney of the appellant. Ho appearance or answer thereto was made by appellant. On the twenty-ninth day of June, 1898, respondents’ attorney entered a motion in said cause “to strike from the files of the action the findings of fact and conclusions of law filed herein on the twenty-seventh day of June, 1898; also to strike from, the files of the action, and to have canceled upon the judgment docket and recorder’s record of Idaho county, state of Idaho, the judgment filed and entered in this action on June 27, 1898” — this being the pretended judgment in the case of Potter v. Talkington, from which an appeal was taken by respondents in this ease, and which appeal was dismissed by this court. Default of appellant was entered on the fourteenth day of July, 1898, and on the same day judgment was rendered against appellant for the sum of $150 and interest from date of judgment at the rate of seven per cent per annum until paid. From this judgment this appeal is taken.
+The order of the district court permitting the appellant to be made a party, without its consent, to an agreed or stipulated case, under the provisions of chapter 2, title 3, part 2, of the Revised Statutes, to which the appellant was a stranger, was without authority of law, and all proceedings thereunder were coram non judice. The judgment of the district court is reversed, with costs to appellant.
+Quarles and Sullivan, JJ., concur.
