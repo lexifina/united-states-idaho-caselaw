@@ -1,0 +1,31 @@
+---
+court: "Idaho Supreme Court"
+decided: "1875-01"
+citations: ["1 Idaho 598"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whitson, J., concurred."]
+parties: ["P. B. HAWKINS ET AL., Respondents, v. WILLIAM L. THURMAN, Appellant."]
+source_url: "https://static.case.law/idaho/1/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8860283
+---
+
+# Hawkins v. Thurman
+
+## Majority (Hollistee, J.,)
+
+Hollistee, J.,
+delivered tbe opinion.
+Whitson, J., concurred.
+This is a proceeding in equity instituted in tbe district court of Ada county, which seems to be somewhat of a complex nature, but from an attentive examination of tbe pleadings we have bad but little difficulty in ascertaining its true character.
+It appears that Pendleton B. Hawkins and one Jesse A. Hawkins entered into a contract in writing, under seal, on the fourteenth day of December, 1869, with the appellant, by which it was agreed that the two Hawkinses had sold to the appellant and let into the possession thereof, certain tracts of land lying in Ada county, for the sum of six thousand five hundred dollars, in gold coin, three thousand dollars of which the appellant was to pay on or before the first of June, 1870, and the remainder on or before the first of March, 1871, with a stipulation therein that if default should be made in the payment of the purchase money, or any part thereof, the appellant should pay on the sum due, interest at the rate of three per cent, per month, and with a further stipulation that at the option of the vendors, if default should be made in the payment of the purchase money, the vendors might re-enter and take possession of the land, and that all payments which have been made should become forfeited.
+It further appears, as is alleged in the complaint, that the appellant failed to make the last payment, although, it is alleged, the vendors had complied with the terms of the contract on their part by tendering to him a deed for the land as agreed upon. There is a further allegation in the complaint that there was a mistake made by the parties in the contract, in the description of some portion of the land conveyed, which the court was asked to correct by its decree; so that it might conform to the intention of the parties. On the hearing the court entered a decree accordingly.
+Except in so far as the suit was brought to correct the above-mentioned mistake, the complaint shows that it was instituted to enforce a vendor’s lien to secure the payment of the balance of the purchase money remaining unpaid, and costs and expenses, etc., and the prayer in the complaint was that the lien should be established by decree and the land subjected to sale to satisfy the debt, etc.
+On a hearing upon the pleadings and proofs, the court made and entered a decree for a specific performance, by the terms of which the appellant was required to pay within a specified time, to tbe clerk of the court, for the benefit of the vendors, the sum of three thousand five hundred dollars, and interest thereon at the rate of three per cent, per month, in gold coin, for one year prior to the entering of the decree, and that on such payment deed for the land should be executed and tendered to Thurman.
+The counsel, in presenting the case to us, have urged various reasons for and against a reversal of the judgment, but we deem it unnecessary to consider more than one or two, as in our view there is but one point on which our decision must rest.
+It is conceded by the counsel for the respondents, and certainly it is so alleged in the complaint, that, except as to that portion of it which seeks a reformation of so much of the contract as relates to the misdescription of the land, it is an action brought, for the enforcement of a vendor’s lien, and not, as it seemed to the court below, a suit for a specific performance. In the view thus taken by the pleader, we entirely concur. The complaint alleges a full performance by the vendors of their part of the agreement, and charges a failure on the part of Thurman to fully perform his part of it, and they seek to obtain by a decree of the court an order for the sale of the land, for the purpose of securing the payment of the purchase money still due, and it necessarily follows that the decree for a specific performance can not be upheld.
+Though not necessary to a determination of the questions involved in the case at bar, it still is important,'in view of the rights and interests of the parties, and which may be involved in a future proceeding, to express our views upon the law in relation to vendors’ liens and its application to the case made by the complainants in this action. It is well settled that on a sale of lands, where, by the agreement of parties, provision is made for the security of the purchase money in some other way than by a lien upon the lands, such lien does not attach by operation of law, and the vendor can not resort to it for security. When, however, no security is agreed upon, the law creates an equitable lien in favor of the vendor, which he can enforce in a court of equity, wlien there is a default in the payment of the purchase money. In this case, it is apparent, such a lien does not attach. By the terms of the contract, the vendors had secured to themselves a triple security, either one of which is deemed in law to be sufficient to insure the payment of the purchase money, without resort to the land, and.which they could enforce by legal proceedings.
+It will be seen, that on the failure by the vendee to make the payments, or any portion thereof, he could be required to pay three per cent, per month interest on the sum unpaid, as liquidated damages, and moreover, that the vendors could re-enter and take possession of the lands, and declare a forfeiture of any moneys that had been paid by the vendee. It is apparent, therefore, from this view of the case, that the complainants showed no equities which entitled them to a decree for the sale of the land.
+In the view we have taken of the case, the decree of the court for a specific performance must be reversed and remanded, and so much of it as reforms the contract, relating to the misdescription of the lands, be affirmed.
