@@ -1,0 +1,34 @@
+---
+court: "Idaho Supreme Court"
+decided: "1903-12-22"
+citations: ["9 Idaho 333", "74 P. 961"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sullivan, C. J., concurs.", "Ailshie, J., took no part in the decision, having been of counsel."]
+parties: ["ARAM v. EDWARDS."]
+source_url: "https://static.case.law/idaho/9/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3340036
+cites_cases: ["12 Cal. 433", "21 Mont. 251", "31 Pac. 803", "32 Atl. 470", "35 Am. St. Rep. 289", "4 Del. Ch. 445", "51 Cal. 431", "53 Pac. 742", "67 Yt. 494", "70 N. W. 843", "72 Pac. 961", "73 Am. Dec. 555", "9 Cal. 616", "9 S. Dak. 596"]
+---
+
+# Aram v. Edwards
+
+## Majority (STOCKSLAGEB, J.)
+
+STOCKSLAGEB, J.
+This action was brought in the district court of Idaho county for an accounting and settlement of a partnership, and to declare certain real estate described in the complaint to be partnership' property. The facts as stated by appellant, and not disputed by respondent, are that on the fourteenth day of June, 1890, James H. Aram, one of the plaintiffs, and one John Aram and one John T. Aram, both now deceased, entered into written articles of copartnership for the purpose of farming, stock-raising, buying and selling stock and for other purposes; that pursuant to said articles said parties engaged in-such business as partners until the same was dissolved by the death of John T. Aram on the twentieth day of May, 1897; that thereafter the surviving partners conducted the business.for the purpose of settling the same; that before the same was settled, and on the thirtieth day of September,, 1901, John Aram ■ died; and thereafter the sole surviving, partner, James H. Aram, has had the control and conduct of said business for the purpose of settling the same.
+The complaint, alleges that certain real estate described there-, in was acquired,, held and owned by the partnership, but that; the same stood on the'records in the names of the individuals composing the partnership, but all being copartnership property and assets; that said partnership property was held by said individuals in trust for the partnership; that said partnership was known and designated as Aram & Sons; that when said John T. Aram died some of the real estate was standing on the records in his individual name; he left surviving a widow, now Carrie E. Gee, one of the defendants and two minor children, Vivian Aram and Chester Aram, also defendants; that prior to the commencement of this action an. agreement was entered into, by the terms of which an accounting and settlement of the partnership was agreed upon, subject to the approval of a court of competent jurisdiction, the attorneys for the respective parties signing said agreement, and the said Carrie E. Gee, widow, approving said agreement on her own behalf and as guardian of the persons and estates of said Chester and Vivian Aram, minors; that said agreement was approved and affirmed by the district court and the terms complied with by all parties.
+This appeal is taken by said minor children and their guardian ad litem, James Woodward, by whom they were represented in the district court.
+W. N Scales, attorney for appellants, appeared in the lower court for all of said defendants and said guardian ad litem and was one of the attorneys who signed said agreement which was approved by the district court; none of the parties interested or concerned with the matters involved in said action believe the settlement inequitable or unjust. The sole question presented to us for determination is, Had the district court the authority or jurisdiction to thus dispose of the interests of minor heirs to real estate ? Counsel for appellants insists that "neither themselves, their guardian ad litem, nor their counsel, as a matter of law, could consent to or authorize such disposition. That the,manner provided by. law for the sale of interests in real estate of minor children is plain and that it .must be done by proper proceedings in the probate court.”
+Counsel for respondénts in their brief say. that the question of jurisdiction was not raised in the lower court. The appellants, minor children, were served with process, appeared both by general guardian and guardian ad litem duly appointed by the court.
+Objections to the jurisdictions of the court are never waived. (Rev. Stats., sec. 5178; Miller v. Pine Mining Co., 2 Idaho (old ed.), 1206, 3 Idaho (Hasb.), 493, 35 Am. St. Rep. 289, 31 Pac. 803.)
+An answer was filed by the guardian ad litem putting in issue every allegation of the plaintiffs’ complaint, and the answer of their general guardian consented to and prayed for the decree rendered in this action.
+The record shows that the court found that on the fifth day of February, 1902, all the parties interested in the subject matter of this action agreed upon a full and complete settlement of all their property, both personal and real. It is also shown that all outstanding debts of the firm of Aram & Sons had been fully paid prior to this agreement; that the only questions to be determined were such as existed between the surviving partner of Aram & Sons and the heirs of the deceased members of said firm; it is further shown that the minor heirs of J. T. Aram by their answer claim that they are entitled to $1,600 from the interest of their father in the copartnership, which amount was allowed by the court and placed in the Bank of Camas Prairie for them. It is further shown that the settlement between all the parties to this action was fully intended to be final and complete, acquiesced in by all parties in interest; sanctioned by the guardian ad litem of the minor heirs, their mother, who was their general guardian, as well as the attorney for the guardian ad litem.
+The learned judge who heard the case, after a full and complete hearing on all the issues involved, rendered his decree fully upholding the agreement.
+With these facts before us, as shown by the record, not disputed by anyone, and the further fact that it is shown that all parties who could have any interest in the settlement or disposition of the assets of the firm of Aram & Sons were in court, asking that the agreement be ratified and confirmed in the interests and for the benefit of all concerned, we think the court was -fully empowered to hear the case and justified in its conclusions.
+That it is not necessary that all estates should be probated, see Gwinn v. Melvin et al., ante, p. 202, 72 Pac. 961, a recent decision of this court; also Woerner’s American Law of Administration, section 201, and authorities cited.
+Judgment affirmed, with costs to respondents.
+Sullivan, C. J., concurs.
+Ailshie, J., took no part in the decision, having been of counsel.
