@@ -1,0 +1,58 @@
+---
+court: "Idaho Supreme Court"
+decided: "1903-06-30"
+citations: ["9 Idaho 215", "72 P. 951"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sullivan, C. J., and Ailshie, J., concur."]
+parties: ["ROBSON v. COLSON."]
+source_url: "https://static.case.law/idaho/9/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3339843
+cites_cases: ["1 Idaho, 465", "1 Idaho, 712", "16 Mont. 198", "18 Utah, 141", "19 Mont. 198", "2 Idaho, 1146", "2 Idaho, 93", "23 Utah, 152", "29 Pae. 31", "3 Idaho, 438", "4 Idaho, 422", "40 Pac. 410", "40 Pae. 410", "55 Cal. 277", "55 Pac. 381", "59 Pac. 162", "6 Pac. 115", "63 Pac. 897", "70 Pac. 304", "70 Pae. 470", "73 Pac. 731", "8 Idaho, 66", "8 Wyo. 549", "93 Cal. 194"]
+---
+
+# Robson v. Colson
+
+## Majority (STOCKSLAGER, J.)
+
+STOCKSLAGER, J.
+This case comes here on appeal from the district court of Fremont county. The transcript was filed December 30, 1902. On the twenty-fourth day of April, 1903, defendants moved the court to dismiss the appeal from the judgment and at the same time a motion was filed to dismiss the appeal from the order denying motion for new trial.
+The motion to dismiss appeal from the judgment follows: “Come now the respondents, John Eayle, Elizabeth Eayle, Dennis Small, James Colson, B. A. Hunsucker, Hudson Cattle-Company, E. A. Pyke, John Robson, W. H. Robson and Pyke Bros. & Clark, and move the court to dismiss the appeal from judgment or decree entered herein, for the reason that the appeal was not taken from the same until more than a year had elapsed after entry of said judgment or decree.”
+The motion to disregard statement and to dismiss appeal from order denying new trial is filed by the same respondents andfis based upon the following reasons:
+Tt Because no notice of intention to move for a new trial was' properly given; that is, the notice was not signed by any party’Or attorney of record.
+'2: No proposed statement on motion was ever properly signed or served; that is, no statement was signed by the moving parties or their attorneys of record.
+3. No proposed statement was served on all the parties or their attorneys within due time.
+. 4. Neither the so-called proposed statement nor the amendments proposed thereto were ever delivered or lodged with the clerk of the district court.
+5. There are no specifications or particulars in which it is alleged the evidence is insufficient to justify the decision such as to warrant the court in considering the evidence. On May 9, 1903, other defendants, respondents herein, filed the motion.
+1. That the said supreme court has no jurisdiction in the matter of the appeal from the said judgment as shown by the said record herein.
+2. That said appeal from the judgment was not taken within one year, as is required by section 4807 of the Revised Statutes of Idaho of 1887.
+3. That the record herein fails to show a compliance with the provisions of section 4808 of the said Revised Statutes, in that it does not show service of notice of appeal on the adverse parties to this action.
+Second. That said supreme court has not jurisdiction in the matter of appellants’ appeal from the order overruling and denying their motion for a new trial as is shown by the record herein.
+That certain respondents ask the dismissal of said appeal from the order denying appellants’ motion for a new trial on the following additional grounds as is set forth in the record herein, to wit:
+1. No notice of intention to move for a new trial has been given by or on behalf of said parties.
+2. No notice of intention to move for a new trial on behalf of said parties, signed by said parties or their attorneys of record, or any attorneys of record, has been given.
+3. No proper notice of intention to move for a new trial was filed and served within the time allowed by law.
+4. No proper notice of intention, in proper form, has been served upon all the parties or their attorneys of record in this case.
+5. No notice of intention in any form has ever been served upon all the parties to this suit or their attorneys.
+6. No proposed statement has been served upon all the parties or their attornej^s of record within the time allowed by law, or by stipulation, or by order of the court or the judge, thereof.
+7. No statement signed by the attorneys of record of said parties has been served upon any of the parties to the suit or their attorneys of record.
+8. Said proposed statement is not signed or offered by the attorneys of record of said parties on behalf of whom it purports to be proposed. That neither said proposed statement' nor any of the proposed amendments were ever delivered to or filed with the clerk of the trial court.
+It is disclosed by the record that the judgment was signed by the judge and filed by the clerk on the thirteenth day of June, 1901. On the first day of October, 1903, the notice of appeal from this judgment was filed with the clerk. It will thus be seen that more than fifteen months have elapsed from date of judgment until the notice of appeal was filed. The statute requires that' the appeal must be taken within one year from entry of judgment.
+This question has been before this court in McCoy v. Oldham, 1 Idaho, 465; Mathison v. Leland, 1 Idaho, 712; Eddy v. Van Ness, 2 Idaho, 93 (101), 6 Pac. 115; Cronin v. Bear Creek G. M. Co., 2 Idaho, 1146 (3 Idaho, 438), 32 Pac. 53; Schiller v. Small et al., 4 Idaho, 422, 40 Pac. 53; Marchand v. Ronaghan, ante, p. 95, 73 Pac. 731.
+In all these cases it was held that the appeal must be taken within the statutory time, and if we are to follow these decisions — and we can see no reason why we should not — the motion to dismiss the appeal from the judgment must be sustained.
+This brings us to a consideration of the motions to disregard the statement on motion for a new trial, and to dismiss the appeal.
+A great many reasons are urged in support of this motion. It is shown by the record that the eminent counsel who appear for appellants in this ease were not connected with the trial of the case, their first appearance being for the purposes of this appeal. This may, and we think does, account for any errors— if any there be — that may have found a place in the record.
+It seems that counsel who appeared for the appellants in the trial court were not retained in this court. Apparently their services ended with the trial there and this may also account to some extent, at least, for the condition of the record.
+Counsel for respondents insist that the statement is insufficient, in that it does not sufficiently set out the particulars in which it is alleged the evidence is insufficient to support the judgment. Subdivision 3 of section 4441, Revised Statutes, among other things, provides: “When the notice of the motion designates as the ground of the motion the insufficiency of the evidence to justify the verdict or other decision, the statement shall specify the particulars in which such evidence is alleged to be insufficient. If no such specifications be made, the statement shall be disregarded on the hearing of the motion.”
+The particulars in which it is alleged the evidence is insufficient to justify the decision and decree of the court follows: “The plaintiff, John Fayle, is not entitled to one hundred and eighty-five inches of the waters of said stream as awarded him by the court, dated October 1, 1883, but is entitled to fifteen inches of the waters of said stream, dating from May 30, 1888.” Then follows in practically the same language allegations of the insufficiency of the evidence relative to the other awards by the court.
+Is this sufficient under our statute? In Zickler v. Deegan, 16 Mont. 198, 40 Pac. 410, it is said: “Where the record was voluminous, a specification of error on motion for a new trial merely stating that the evidence clearly shows that a certain condition of the contract had been fulfilled without pointing out wherein the evidence of a breach of such condition was insufficient was properly ignored.”
+In Van Pelt v. Park, 18 Utah, 141, 55 Pac. 381, it is said: “Notwithstanding the rule that in equity cases the appellate court may go behind the findings and decree, consider all the evidence and ascertain whether or not the proof justifies the findings and decree, appellant must comply with sections 3284, 3296, Revised Statutes, and objections to the sufficiency of the evidence to justify the findings and decree must specify the particulars in which such evidence is alleged to be insufficient.”
+Marks v. Taylor, 23 Utah, 152, 63 Pac. 897, reiterates this doctrine in the following language: “Assignments of error upon the ground of insufficiency of the evidence without stating the particulars in which the evidence is insufficient as required by section 3284, Revised Statutes of 1898, cannot be considered.”
+Eddelbuttel v. Durrel et al., 55 Cal. 277, after quoting the section of the statute which is the same as ours, states as follows: “If no such specifications be made the statement shall be disregarded on the hearing of the motion. This is statute law and we must obey it. In the ease before ús there is not even an attempt made to specify the particulars in which the evidence is alleged to be insufficient to sustain the findings of the court below. Appellant might as well have said in a general way that none of the findings of the court are sustained by the evidence.”
+This rule still prevails in that state, as shown by the case of Swift et al. v. Occidental Min. etc. Co. et al., decided in 1892 and reported in 70 Pac. 470. The court says: “Turning to the specifications of the insufficiency of the evidence to sustain the findings, it will be seen that all but two of the twenty findings of fact are challenged, and in no single instance is there the slightest attempt to specify wherein the evidence is insufficient except as to an inconsequential part of finding 12. The form of the specification is, ‘That the evidence is insufficient to justify the court in finding,” and then sets out the language of the finding, but no specification of any particular wherein the finding is unsupported.” This question has frequently been before the supreme court of California, and the holdings have always been that the provisions of the statute must be complied with.
+Hayne on New Trial and Appeal, at pages 428-431, discusses this question at some length, and his conclusions are in harmony with the views expressed in the above citations.
+Our attention has not been called to any authorities holding a contrary view. We are of the opinion that it was the intention of the legislature of this state that opposing counsel as well as the trial court should be fully informed of the particular evidence relied upon by the moving party to warrant the court in granting the relief sought by the motion. There is no. attempt on the part of appellants in this case to .particularize or call attention to the insufficiency of the evidence in any particular instance, simply that the various parties are not entitled to the amount of water decreed by the court from certain dates, but are only entitled to so much water from certain dates fixed by appellants. Under the authorities above cited and the provisions of our statute, we must conclude that the statement must be disregarded, and this being true, it necessarily follows that the motion to dismiss the appeal from the order overruling 8 motion for new trial must be sustained, for the reason that the motion for new trial is barred on the statement.
+Motion sustained and appeals dismissed, with costs to respondents.
+Sullivan, C. J., and Ailshie, J., concur.
