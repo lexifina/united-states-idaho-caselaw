@@ -1,0 +1,53 @@
+---
+court: "Idaho Supreme Court"
+docket: "10351"
+decided: "1970-12-30"
+citations: ["94 Idaho 6", "479 P.2d 775"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McFADDEN, C. J., and McQUADE, SHEPARD and SPEAR, JJ., concur."]
+parties: ["Leonard D. WAGERS, Marlin Paine, Bruce C. Bartlett, James G. Nafsinger and Donald Newbill, as Trustees of School District No. 139, and individually as residents and taxpayers of Canyon County, Idaho, Plaintiffs-Appellants and Cross-Respondents, v. Fred K. NICHOL, C. M. Van Slyke and Ira L. Craven, individually, and as the Commissioners of Canyon County, Idaho, and Board of Equalization of Canyon County, Idaho, Defendants-Respondents and Cross-Appellants, v. AMALGAMATED SUGAR COMPANY, a corporation, Defendant-Intervenor and Cross-Appellant."]
+source_url: "https://static.case.law/idaho/94/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4418290
+cites_cases: ["253 P.2d 659", "40 Cal.2d 317", "40 Idaho 432", "72 Idaho 407", "79 Idaho 325", "80 Idaho 387", "93 Idaho 558"]
+---
+
+# Wagers v. Nichol
+
+## Majority (DONALDSON, Justice.)
+
+DONALDSON, Justice.
+This is an appeal from a judgment of the district court denying petitioners’ (appellants’) petition for an alternative writ of mandate which sought to compel the Canyon County Board of Commissioners, sitting as the Board of Equalization, to include upon the 1966 personal property tax rolls certain personal property owned by the Amalgamated Sugar Company and valued at more than $700,000.
+The pertinent facts surrounding this appeal are as follows:
+In 1965, the Idaho State Legislature passed a statute, I.C. § 63-105V, exempting certain personal property from taxation which is commonly known as the “freeport legislation.” In order to take advantage of the new legislation, the Amalgamated Sugar Company (intervenor-defendant, respondent and cross-appellant), filed documentary proof with the Canyon County Assessor to support a reduction in the assessed valuation of its inventory for 1966. The Canyon County Board of Equalization then entered its order reducing the assessment.
+On January 9, 1968, the Trustees of School District No. 139 (petitioners-appellants) filed a petition for a writ of mandate to compel the Canyon County Board of Equalization (defendants-respondents) to include upon the personal property tax rolls of Canyon County for 1966, personal property of the Amalgamated Sugar Company in the sum of $478,650. The school district was deprived of $35,000 in tax revenues as the result of the reduction in assessment. The district court determined, however, in Conclusion of Law No. 5 that the
+“Plaintiffs [Trustees of the School District] failed to prove by convincing evidence that Exhibit 2 [letter, see F.N.] was not sufficient documentary proof or that the Board abused its discretion. Plaintiffs [Trustees of the School District] failed to establish a clear legal right to the issuance of a writ of mandamus.”
+The Trustees of School District No. 139 have appealed to the Supreme Court from' the judgment of the district court denying-their petition for an alternative writ of mandate.
+The first question presented by this appeal is raised by respondent on its cross; appeal and is whether a petition for an alternative writ of mandate is the proper-procedure by which to question the action taken by the Canyon County Board of’ Equalization; i. e., removal of personal property from the tax rolls.
+“Whenever the law gives power to, or imposes an obligation on, a particular person to do some particular act or duty,, and provides no other specific legal remedy for its performance, this writ will issue.” Merrill, Law of Mandamus, § 13, pp. 7, 8 (1892).
+The County Boards of Equalization are charged by statute with the duty of classifying and assessing all property within the county. I.C. § 63-402. This duty is not discretionary but rather is required, and indeed is the sole purpose and function of the County Board of Equalization. I.C. ' § 63-401 et seq.
+Although the legislature in 1957 enacted a statute, I.C. § 63-2210, prescribing the method of appeal to be taken by a taxpayer or aggrieved party when he is dissatisfied with a determination made by the Board of Equalization in the months of June or July, there was no statutory procedure which would have entitled the petitioners (appellants), who are the aggrieved parties, to institute an appeal to the Board of Tax Appeals from decisions of the Board of Equalization made by them in the month of December which related to exemptions. I.C. § 63-1904 provides that the Board of County Commissioners, sitting as a Board of Equalization, shall meet the first Monday in December of each year to hear complaints in regard to assessments and allowing or disallowing exemptions. Thus it appears that the only recourse available to the Trustees of the School District was a petition for an alternative writ of mandate and thus mandamus was a proper procedure under the circumstances of this case. It should be pointed out, however, that the legislature, in 1969, amended § 63-2210 of the Idaho Code and it now appears that an appeal will lie to the Board of Tax Appeals from a decision made by the County Board of Equalization regardless of the month in which it was made.
+The essential question to be decided by this appeal is whether the petitioners (Trustees of School District No. 139) have presented sufficient proof to entitle them to the relief requested. Before a party can successfully maintain an action for an alternative writ of mandate, he must establish (1) that he has a clear legal right to have the act done, and (2) that it is the clear legal duty of the officer to act. Freeman v. McQuade, 80 Idaho 387, 331 P.2d 263 (1958); Brooks v. Edgington, 40 Idaho 432, 233 P. 514 (1925). A strong presumption of correctness attaches itself to official decisions of administrative bodies. See Cole-Collister Fire Protection District v. Boise City, 93 Idaho 558, 468 P.2d 290 (1970); Faulkner et al. v. California Toll Bridge Authority, 40 Cal.2d 317, 253 P.2d 659 (1953); 73 C.J.S. Public Administrative Bodies § 205, pp. 556-558. To overcome this presumption, the appellants must have introduced evidence in the district court probative of the legal conclusion that the determination to exempt the property in question owned by the Amalgamated Sugar Company was incorrect. Since the appellants failed to submit any evidence whatsoever tending to show that the determination by the Board of Equalization was erroneous or based on incorrect or false figures, the decision cannot be disturbed by this Tribunal.
+In answer to appellants’ contention that the Canyon County Board of Equalization’s granting of an exemption to the Amalgamated Sugar Company was not based upon “sufficient documentary evidence” this Court is of the opinion that since the Canyon County Board of Equalization is an administrative agency which possesses expertise in the matter of the taxation of personal property the determination of what constitutes sufficient documentary evidence is left to the discretion of the Board and such evidence need not necessarily comply with all the technical rules of legal evidence.
+Judgment affirmed. Costs to respondents. Costs to appellants (cross-respondents) on cross appeal.
+McFADDEN, C. J., and McQUADE, SHEPARD and SPEAR, JJ., concur.
+.Tlie documentary proof consisted of the following letter (plaintiffs’ Ex. 2) :
+“December 5, 1966
+“Mr. Lloyd E. Allison
+Canyon County Assessor
+Caldwell, Idaho
+Dear Mr. Allison:
+As per our understanding, we are reported for 1966 County Assessment the values on sugar and dried pulp based on shipments in and out of the state for the period of January 10, 1966, through November 30, 1966.
+584,200 Cwt. sugar reported value $667,-075 with 8.10% sold in Idaho for $54,-033 assessed value. 21,476 tons dried pulp reported value $81,575 with 91.-39% sold in Idaho for $74,551 assessed value.
+Very truly yours,
+/s/ Blaine Bachman
+BLAINE BACHMAN
+Assistant Secretary”
+. An action in mandamus will not lie to compel the discharge of discretionary functions. Merrill on Mandamus, § 37, p. 37 (1S92).
+. During the time this controversy arose the relevant statute regulating the right of appeal from decisions made by the Board of Equalization denied an appeal to the State Tax Commission from decisions of the Board of Equalization which were made in December and related to exemptions or the “freeport legislation.”
+I.C. § 63-2210 stated:
+“63-2210. Appeals from Gounty Board of Equalization. — Any time within twenty days after the * * * time prescribed and fixed by Section 63-401, Idaho Code, [up to the fourth Monday of June] for the completion of business and adjournment of the board of county commissioners, sitting as a board of equalization, an appeal may be taken from any act, order or proceeding of the board, or the failure of the board to act within the time so prescribed, to the state tax commission, by any person aggrieved thereby, or by any taxpayer of the county when he deems any such act, or failure to act, •order or proceeding illegal or prejudicial to the public interest, but nothing in this section shall be construed so as to suspend the payment of taxes pending said •appeal. * *
+See also, Utah Oil Refining Co. v. Hendrix, 72 Idaho 407, 242 P.2d 124 (1952). “Appeals from the county board of equalization are to be taken to the state tax commission (§ 63-2210, I.C., as amended; Utah Oil Refining Co. v. Hendrix, 72 Idaho 407, 242 P.2d 124) and then from the order of the state tax commission to the district court (§ 63-2214, I.C.).” In re Felton’s Petition, 79 Idaho 325 at 330, 316 P.2d 1064 at 1065 (1957).
+. “63-2210. Appeals from county hoard of equalization. — Any time within thirty (30) days after mailing of notice of a decision of the board of county commissioners, sitting as a board of equalization, or pronouncement of a decision if this is announced at a hearing, upon a complaint by a taxpayer, the assessor or the state tax commission in relation to the property valuation, an appeal may be taken from any act, order or proceeding of the board, or the failure of the board to act before adjournment of the board as a board of equalization, to the board of tax appeals, by any person aggrieved thereby, or by the state tax commission or by any taxpayer of the county when he deems any such act, or failure to act, order or proceeding illegal or prejudicial to the public interest, but nothing in this section shall be construed so as to suspend the payment of taxes pending said appeal.
