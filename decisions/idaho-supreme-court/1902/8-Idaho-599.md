@@ -1,0 +1,26 @@
+---
+court: "Idaho Supreme Court"
+decided: "1902-11-17"
+citations: ["8 Idaho 599", "70 P. 790"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quarles, C. J., and Sullivan, J., concur."]
+parties: ["JENSEN v. NORTHERN PACIFIC RAILWAY COMPANY."]
+source_url: "https://static.case.law/idaho/8/cases/0599-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3341980
+cites_cases: ["1 Idaho, 722", "10 S. E. 441", "10 S. E. 503", "14 Am. St. Rep. 534", "2 Idaho, 404", "3 Idaho, 703", "3 S. E. 69", "4 Idaho, 443", "5 Idaho, 271", "5 South. 629", "6 Idaho, 231", "6 South. 877", "62 Pac. 1029", "66 Miss. 3", "7 Idaho, 305", "7 S. E. 639", "78 Ga. 714", "8 South. 57", "80 Ga. 202", "83 Ga. 669", "84 Ga. 112", "88 Ala,. 453", "90 Ala.. 46"]
+---
+
+# Jensen v. Northern Pacific Railway Co.
+
+## Majority (STOCKSLAGER, J.)
+
+STOCKSLAGER, J.
+— This is an appeal from the district court of Kootenai county. The plaintiff (respondent) commenced his action in justice’s court of Kootenai county to■ recover for the loss of two cows alleged to have been negligently and carelessly killed by defendant’s (appellant’s) “locomotive and train of cars.” Judgment was rendered in justice’s court in favor of the plaintiff for the sum of $100. An appeal was taken to the district court of said county, and a judgment in. favor of the plaintiff for the same amount was the result of a trial in said court. A motion for a new trial was overruled,, and this appeal is from that order.
+The record discloses fifteen assignments of error occurring at the trial. One is insufficiency of the evidence to support-the verdict. From the evidence we obtain the facts to be that appellant’s train was running at a rate of speed equal to about forty miles an hour. That as the train approached the crossing an alarm whistle was sounded. Afterward, and when the train was within about two hundred yards of the crossing, the engineer discovered some cattle about forty to fifty feet from the track, but was unable to tell at first sight whether they were moving or-not. As soon as he discovered they were moving toward the crossing, he sounded the stock-alarm whistle, which: consists of quick, sharp blasts. At the same time he applied the-air to the brakes, and when he got to the crossing had reduced; the rate of speed to about twenty miles an hour. The fireman: rung the bell for the crossing. The engineer testifies that there-was one cow on each side of the engine when they struck them ; that he was on the right side, and saw the cow on that side. “When we struck it, it knocked it down. We struck it with the corner of the pilot, but the cylinder prevented it from falling low enough, and there was some gravel piled up on the side of the track, and the animal fell in between the cylinder and this gravel, and was pulled along probably fifty or sixty feet before it broke loose. I saw the point exactly where we struck this cow. It was very close to the crossing plank, and this-plank is in the middle of the crossing. We just picked her up and pushed her right along through the crossing fence, which comes up to the cattle-guard. I saw the cow strike the fence, and saw the broken fence after she struck it. I saw the splinters flying when it broke.” The fireman testifies to seeing the cow struck on his side of the engine, and said she was near the middle of the crossing wh'en the engine struck her, and that she was thrown fifteen or twenty feet oyer inside the fence. A witness for the plaintiff was, over the objection of counsel for defendant, permitted to give his opinion as to how and where the two cows were injured. This was not a subject for expert testimony, and, even if it were, the witness did not disclose any superior knowledge or information, or bring himself within the rule of an expert witness, and it was error in letting his evidence go to the jury.
+One of the instructions to the court was that: “If you beEeve from the evidence, and find the case to be, that the engineer of this train gave signals of his approach by ringing the bell and blowing the whistle, and that as soon as the cattle were seen to approach the track the cattle-alarm whistle was blown, and the engineer used all the means at his command to control the train and avoid the accident, the jury should find for the defendant.” This instruction, in our opinion, correctly states the law, but seems to have been entirely ignored, by the jury. A careful inspection of the record fails to disclose any evidence to support the verdict. There is no conflict in the evidence by which the rule may be invoked that, where there is a substantial conflict, the appellate court will not disturb the verdict of the jury. The evidence of the engineer and fireman stand uncontradicted, and they were the only eyewitnesses to the accident.
+We do not deem it necessary to take up the several assignments of error, as our conclusion, we think, practically disposes of the case.
+The judgment of the lower court is reversed, and cause remanded for further proceedings in harmony with this opinion. Costs to appellant.
+Quarles, C. J., and Sullivan, J., concur.
