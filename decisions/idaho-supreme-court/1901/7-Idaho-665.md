@@ -1,0 +1,25 @@
+---
+court: "Idaho Supreme Court"
+decided: "1901-05-28"
+citations: ["7 Idaho 665", "65 P. 364"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quarles, C. J., concurs.", "Stockslager, J., did not sit at the hearing of this case, and took no part in the decision thereof."]
+parties: ["McGINNESS v. DAVIS, Assessor."]
+source_url: "https://static.case.law/idaho/7/cases/0665-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8586522
+cites_cases: ["5 Idaho, 416", "5 Idaho, 589", "5 Idaho, 710", "58 Neb. 57", "6 Idaho, 418", "6 Idaho, 496", "6 Idaho, 593", "68 N. W. 431", "78 N. W. 480", "98 Iowa, 655"]
+---
+
+# McGinness v. Davis
+
+## Majority (SULLIVAN, J.)
+
+SULLIVAN, J.
+This action was brought to perpetually restrain the collection of certain taxes assessed against the appellant for the year 1898, and to have said assessment, and the sale made thereunder, declared void. The complaint sets up two alleged causes of action, one of which was decided in favor of plaintiff, and one against him. This appeal involves the judgment that was rendered against the plaintiff, who is appellant herd.
+The facts necessary to an understanding of this case are substantially as follows: An amendatory act, amending section 1428 of the Revised Statutes was approved March. 8, 1897. (4th Sess. Laws, p. 30.) As that section stood prior to said amendment, it provided that all taxable property should be assessed in the county in which it was situated on the second Monday of April, or, if not within the state on that day, where it is situated on the day of assessment. Said section, as amended by the act of March 8, 1897, changes the word “April” to “January.” The section as amended provides that all taxable property shall be assessed in the county, city or district in which it is situated on the second Monday of January, or, if not within the state on that day, on the day of assessment. It appears from the record that on the seventeenth day of February, 1898, the assessor of said Elmore county demanded of appellant a statement of his property, as required by law, for the purpose of assessing it, which statement was given by appellant. Eight hundred head of cattle were listed in said statement, with other property, all of which was assessed to appellant. On the seventh day of March, 1898, the appellant sold and delivered to the purchaser all but nine head of said cattle so listed and assessed, and thereafter he did not notify the assessor of such sale, or offer to have the proceeds of said sale listed for assessment, or show why such proceeds should not be assessed for taxation against him. Appellant appeared before the board of equalization, and by affidavit set up the fact that he had sold said cattle on March 7, 1898, and asked that his assessment be reduced to the extent of seven hundred and ninety-one head of cattle — the number so sold. The board refused to make any reduction. Appellant thereafter paid- the taxes on all property so assessed, except the seven hundred and ninety-one head of cattle, and refused to pay that tax. Thereupon, as required by law, the assessor and tax collector advertised the real estate of appellant for sale for the unpaid balance on the taxes so assessed, and this suit was brought to enjoin said sale and the collection of -said taxes.
+The contention of the appellant is that said assessment, was illegal and void for the reason that the said act of March 8, 1897, was not legally enacted or passed — was not enacted in conformity with the provisions of the state constitution. To show the steps complained of in the passage of said bill, certified copies of the journal entries of both the House and Senate are presented in the record. The constitutionality of said act is thus put in issue. This court has held that it will not pass, upon the constitutionality of an act unless it is absolutely necessary for a decision of the case under consideration. (State v. Ridenbaugh, 5 Idaho, 710, 51 Pac. 750; People v. Alturas Co., 6 Idaho, 418, 55 Pac. 1067; State v. Baker, 6 Idaho, 496, 56 Pac. 81.) The act in question involves the revenue laws of the state, and involves great public interest. It had been recognized as valid by the officers of the state, and of various counties of the state, and by the people, and was re-enacted in 1899, when the informality complained of was obviated; and the record fails to show that any injustice has been done appellant. By reason of his acts of commission and omission above set forth, he should be regarded as estopped from attacking the constitutionality of said act. As stated in the ease of People v. Alturas Co., supra, the conclusion reached in this case is based upon the rule of estoppel demanded in this ease by public policy. The judgment of the court below must be affirmed, and it is so ordered. Costs of this appeal are awarded to respondent.
+Quarles, C. J., concurs.
+Stockslager, J., did not sit at the hearing of this case, and took no part in the decision thereof.
