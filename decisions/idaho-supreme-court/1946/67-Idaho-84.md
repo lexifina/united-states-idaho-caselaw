@@ -1,0 +1,58 @@
+---
+court: "Idaho Supreme Court"
+docket: "7280"
+decided: "1946-06-27"
+citations: ["67 Idaho 84", "172 P.2d 853"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["AILSHIE, C. J., and HOLDEN and MILLER, JJ., concur.", "BUDGE, J., dissents."]
+parties: ["REED v. RUSSELL et al."]
+source_url: "https://static.case.law/idaho/67/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4542513
+cites_cases: ["131 N.E. 914", "159 A.L.R. 1314", "167 N.E. 181", "231 N.Y. 273", "251 N. Y. 90", "47 Idaho 208", "53 Idaho 367", "53 Idaho 793", "54 Idaho 326", "54 Idaho 502", "57 Idaho 792", "59 Idaho 533", "59 Idaho 58", "59 Idaho 643", "61 Idaho 720", "62 Idaho 291", "64 Idaho 369", "65 N.E.2d 742", "93 A.L.R. 984"]
+---
+
+# Reed v. Russell
+
+## Majority (GIVENS, Justice.)
+
+GIVENS, Justice.
+Steve Russell, respondent-employer, owns and operates a sawmill approximately five miles northeast of Weippe towards Pierce, and a quarter of a mile or so north of his mill a farm where he keeps livestock consisting of cattle, horses and mules — the latter used to pack camping and hunting parties into the adjacent mountains and game areas, and the mules also in skidding logs.
+James R. Reed, deceased, was first employed by Russell to work at the mill and later — prior to the fatal accident — ostensibly relegated to agricultural employment on a $200-a-month-wage basis. Russell had not elected to carry workmen’s compensation insurance on his farming activities.
+The morning of July 14, 1945, Russell’s foreman, Harvey Wilson, residing in Weippe near deceased, requested him to run the trimmer at the mill in the absence of the regular employee performing that service. Deceased assented, but when in Wilson’s automobile, they arrived at the mill, the regular operator of the trimmer had reported, and deceased stated he was not hired to work at the mill as then further requested by Wilson, and indicated he had to haul hay for the mules. He had previously told his wife he was going to get hay that morning for the horses. At about 10 o’clock, with his employer’s truck, he delivered a load of lumber at Weippe. He thereupon met one Chet Applington, an independent logging-contractor, and after visiting a beer parlor, Applington’s truck having previously broken down, they drove to his lumber camp east of Weippe in the truck deceased had and brought back some of Applington’s employees. He and Applington then drove in the same truck to Pierce and had dinner at about 2 o’clock p. m. About 3:30 p. m. they started for Weippe in the same truck. The hay to be hauled was evidently at the farm of Russell’s father, some ten or twelve miles westward of Weippe. Between Pierce and Weippe and going in the direction of this hay ranch, the truck turned over .and Reed was killed about 4 or 4:30 in the afternoon.
+His widow and minor children sought and secured compensation.
+The employer and insurance carrier contend deceased was not engaged in any service for his employer at the time of the accident, and if he were, it was agricultural; i. e. not covered or compensable.
+The Board found in substance that deceased, though at the time of the accident going for the load of hay, was overall in the employer’s covered operations, i. e. the operation of the mill and camps and that the care and keep of the livestock were principally and usually in connection with his packing operations, the mules being used in both, i. e. to pack and to skid logs.
+Where the employer is engaged in more than one occupation or business, one covered by workmen’s compensation insurance, the other not, the rule as laid down in Dorrell v. Norida Land & Timber Co., 53 Idaho 793 at page 800, 27 P.2d 960, is to the effect that it is the regular or principal employment which governs the status of the employee.
+Applying this principle, on the side of coverage herein are: that deceased was designated as a “roustabout”, ordinarily considered an industrial, not an agricultural designation; did odd jobs around the mill and could be called upon to help out there as occasion might require, and social security premiums were paid upon him—which would not be the case if he were engaged strictly and solely in agricultural employment. Opposed to this are: that at the instant of the accident, he was going for a load of hay; he had refused that morning to do work at the mill and had erstwhile been re-employed in connection with the farm activities. These indicia, however, merely result in a conflict in the record, peculiarly for solution by the Board whose finding is, therefore, sustainable in this particular.
+In favor of the finding and/or conclusion that the deceased had again come within the scope of his employment after his convivial' and prandial peregrinations with Applington, are: first, he was in his master’s truck, some indication he was on his master’s business. Willi v. Schaefer Hitchcock Co., 53 Idaho 367 at page 371, 25 P.2d 167; Gordon v. Rose, 54 Idaho 502 at page 506, 33 P.2d 351, 93 A.L.R. 984; Gorton v. Doty, 57 Idaho 792 at page 800, 69 P.2d 136; Manion v. Waybright, 59 Idaho 643 at page 656, 86 P.2d 181; Abbs v. Redmond, 64 Idaho 369 at page 373, 132 P.2d 1044; 159 A.L.R. 1314. Second, they were headed in the direction of where the hay was, namely, the James Russell ranch some ten or twelve miles westward of Weippe; and third, Applington, his boon companion of the day, testified he had agreed to help deceased get the hay and that at the time of the accident, “we were going to get the hay”.
+The Board resolved the consequent conflicts in favor of respondent.
+The appellants assign as error rulings sustaining objections to questions propounded to Harvey Wilson, the foreman, as to “what if any, business deceased had to perform for his employer at Pierce on that day” and “what directions had been given to him on that particular.” These rulings as well as others in connection with similar inquiries, i. e. of employment, were unduly restrictive, Wilson v. Standard Oil Co., 47 Idaho 208, 273 P. 758; Willi v. Schaefer Hitchcock Co., supra; Feuling v. Farmers’ Co-operative Ditch Co., 54 Idaho 326, 31 P.2d 683; Nistad v. Winton Lumber Co., 59 Idaho 533, 85 P.2d 236; Watkins v. Cavanagh, 61 Idaho 720, 107 P.2d 155, but were not sufficiently prejudicial to require a reversal.
+The order awarding compensation is, therefore, affirmed. Costs awarded to respondent.
+AILSHIE, C. J., and HOLDEN and MILLER, JJ., concur.
+BUDGE, J., dissents.
+
+## Rehearing (BUDGE, Justice)
+
+On Rehearing.
+BUDGE, Justice
+(dissenting).
+I adhere to my former dissent to the majority opinion, and have decided to briefly state two reasons why recovery cannot be had under the facts of this case.
+There is no dispute in the evidence that James Robert Reed, deceased, was in the employ of Steve Russell; that Russell was engaged in industry and agriculture; that deceased’s principal occupation was that of farming, or working on the farm owned by Russell. Russell testified:
+“Q. And how long at a time did he work on the ranch? A. Well, he did most of his work on the ranch and just occasionally at the mill after that time. He was down there at different times during that period, but he was hired to work on the ranch.”
+On the day of the accident he went down to the mill to take the place of a regular employee; before he reached the mill the regular employee arrived. Harvey Wilson, foreman at the mill, testified:
+“A. * * * I asked Robert then if he would help me on the log haul and unload the truck, and he said, no, he didn’t come up there to work for Steve Russell in the mill or in the timber, — if he had he would have come out and got the job straight out. He said he wasn’t going to do that. He said the mules in the pasture didn’t have enough feed and he was going to get the truck and haul a load of hay for them, to feed them.
+$ ‡ ‡ ‡ ‡
+“Q. What, if anything, did he say he was going to do on that day?
+>;< % % ^ % %
+“A. What he said he was going to do that day — well, he said he was going to haul that load of hay — that’s what he was going to do that day.”
+Reed loaded some mill material onto the truck, and proceeded to Weippe to deliver the material. When he left Weippe, instead of getting the hay and returning to the farm, which was about 10:30 a. m., he went to the lumber camp of one Applington, about eight miles West of Weippe, and returned to Weippe with Applington and three of his employees; from there Reed and Applington went to Pierce, which is 12 miles South of Weippe. It might be here observed that the Russell ranch, where he was to get the hay, is eight miles northeast of Weippe. Applington and Reed were together, with the exception of about twenty minutes, at Pierce. The record does not disclose that he did any business for his employer either at Applington’s camp or at Pierce. Reed’s trip to Applington’s camp and to Pierce had no connection with his employer or his employment, but was purely personal to him. They remained at Pierce until about 3:30 p. m., then started to return to Weippe, but before reaching Weippe Reed met with the fatal accident.
+To my mind the uncontradicted evidence discloses that Reed left his employer’s business at Weippe and had not returned to his employer’s business at the time of the accident, consequently the accident did not arise out of nor in the course of his employment. Under these circumstances no recovery could be had.
+As was said in Parker v. Twin Falls County, 62 Idaho 291, 296, 111 P.2d 865, 866:
+“In re Christie, supra, 59 Idaho 58, 81 P.2d 65, this court quotes the following from Marks’ Dependents v. Gray, supra, 251 N. Y. 90, 167 N.E. 181:
+“ 1 “The test in brief is this: If the work of the employee creates the necessity for travel, he is in the course of his employment, though he is serving at the same time some purpose of his. own. Clawson v. Pierce-Arrow Motor Car Co., 231 N.Y. 273, 131 N.E. 914. If, however, the work has had no part in creating the necessity for travel, if the journey would have gone forward though the business errand had been dropped, and would have been canceled upon failure of the private purpose, though the business errand was undone, the travel is then personal, and personal the risk * * * ” The foregoing quotations state the law on the subject as we understand it.’ ” See, also, Dorrell v. Norida Land & Timber Co., 53 Idaho 793, 800, 27 P.2d 960.
+Stating a second reason, no recovery can be had for the reason that Reed was engaged in “agricultural pursuits” at the time of the accident and was therefore exempt from the provisions of the Workmen’s Compensation Law (sec. 43-904, subsec. 1, I. C.A.) because his employer had, prior to the accident, failed to elect that the provisions of the Workmen’s Compensation Law should apply to employees engaged in agricultural pursuits.
+Reed worked at the farm owned by his employer; the character of his employment was that of agriculture; he was employed and paid to do farm work, which was his principal occupation. True, semi-occasionally, but rarely, he worked about the employer’s lumber business. Whether a workman is or is not a farm employee must be determined from the character of the work he is required to perform and not from the general occupation or business of his employer. An employee may work in a dual capacity for the same employer, and be covered by the act while engaged in one capacity and exempt from the benefits engaged in the other.
+The case of Evansville Veneer & Lumber Co. v. Mullen, Ind.App., 65 N.E.2d 742, and cases therein cited, express my views, is in point, and decisive of the question last discussed.
