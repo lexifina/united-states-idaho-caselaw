@@ -1,0 +1,26 @@
+---
+court: "Idaho Supreme Court"
+decided: "1897-11-20"
+citations: ["5 Idaho 524", "51 P. 143"]
+reporter: "idaho"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Huston and Quarles, JJ., concur."]
+parties: ["WOODWARD v. BOARD OF COMMISSIONERS OF IDAHO COUNTY."]
+source_url: "https://static.case.law/idaho/5/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8586570
+cites_cases: ["27 Pac. 680", "3 Idaho, 103", "36 Pac. 702", "39 Pac. 556", "4 Idaho, 131", "4 Idaho, 365", "4 Idaho, 44", "4 Idaho, 646", "46 Pac. 1022"]
+---
+
+# Woodward v. Board of Commissioners
+
+## Majority (SULLIVAN, C. J.)
+
+SULLIVAN, C. J.
+This is an appeal from an order of the board of commissioners of Idaho county allowing A. W. Talk-ington, clerk of the district court, $240, quarterly • salary for a deputy clerk. The appeal was taken to the district court, and the action of the board was sustained. Thereupon an appeal was taken to this court.
+It was contended that said allowance for a deputy clerk was illegal: 1. Because any allowance in excess of the fees earned by the office is unauthorized by the constitution or any law of the state; 2. Because the necessity for the employment of a deputy clerk had not theretofore been determined by said board.
+Several errors are assigned. But, in our view of the ease, it is only necessary for us to pass upon one of them, to wit: “The court erred in finding that the employment of a deputy was necessary.” After a most careful consideration of the transcript, we find no evidence sustaining said finding, and the court’s conclusion of law based thereon is erroneous.
+A. W. Talkington testified in his own behalf, and records were introduced showing the allowance of the clerk’s bill for deputy clerk hire, $240. Also the report of said clerk to the board showing his fees and commissions for the year 1895, which aggregated $2,859.75. He also testified that he had received $240 per quarter for deputy clerk hire for the year 1895, which last-mentioned sum he paid over to his deputy. The district attorney propounded the following question to the witness: “Q. •Mr. Talkington, you may state what number of deputies, if any, were required to transact the business of your office as recorder and clerk of the court during the year 1895. A. I have one deputy, but at two different times, I think, if I remember right, I employed another deputy for about a week each time. That I paid myself.” The foregoing is all of the evidence in the case, except, in response to a question by the appellant, the witness stated that he was not present during the whole year in his office. The evidence is wholly insufficient to establish the necessity for employing a deputy, and paying him out of county funds. If the clerk was sick, and unable to perform the duties of his office, or absent therefrom on business not connected with his office, the board should allow him to employ a deputy, for in such cases he may be unable to perform the duties of his office, and a deputy would be necessary. But in such cases the county is not liable for the compensation of the deputy. He must look to the clerk therefor. The clerk is not entitled to •recover from the county any compensation so paid.
+In presenting this case the appellant appeared before this court in his own proper person, his attorney being absent, and made an able and unique argument, presenting, among others, the following propositions, to wit: “The taxpayers of Idaho county do not understand how, under the provisions of the constitution, the clerk of the district court can, by absenting himself from his office, and failing to perform the duties thereof, create the necessity for tbe employment of a deputy, contemplated by constitution, and require the taxpayers to pay such deputy." The constitutional provision referred to by the appellant is as follows (section 6, article 18): “The sheriff, auditor, and recorder, and clerk of the district court shall be empowered by the county commissioners to appoint such deputies and clerical assistance as the business of their offices may require; said deputies and clerical assistants to receive such compensation as may be fixed by the county commissioners.” In Eakin v. Nez Perces County, 4 Idaho, 131, 36 Pac. 702, Mr. Justice Huston, speaking for the court, said: “It was the evident intent of the framers of the constitution that these county offices should, so far as practicable, be made self-sustaining. .... There is no provision for the payment of anything in the way of compensation by the county, except in the event of the fees of the offices falling below the minimum fixed by the statute.” (See, also, Hillard v. Shoshone Co., 3 Idaho, 103, 27 Pac. 680; Ada County v. Ryals, 4 Idaho, 365, 39 Pac. 556; Meller v. Board of Commrs., 4 Idaho, 44, 35 Pac. 712.) The evident intention of the framers of the constitution was to limit the costs of the office of the clerk of the court to the fees provided for by law, except when such fees did not amount to the minimum fixed by law. The judgment of the court below is reversed, and the cause remanded, with instructions to enter judgment reversing the order appealed from. Costs of this appeal are awarded to appellant.
+Huston and Quarles, JJ., concur.
