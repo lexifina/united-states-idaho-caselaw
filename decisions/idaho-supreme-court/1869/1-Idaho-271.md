@@ -1,7 +1,8 @@
 ---
 court: "Idaho Supreme Court"
 decided: "1869-01"
-citations: ["1 Idaho 271", "1 Idaho 274"]
+decided_precision: "month"
+citations: ["1 Idaho 271"]
 reporter: "idaho"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
