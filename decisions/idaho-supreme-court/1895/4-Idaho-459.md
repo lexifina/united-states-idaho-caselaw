@@ -1,7 +1,7 @@
 ---
 court: "Idaho Supreme Court"
 decided: "1895-04-06"
-citations: ["4 Idaho 459", "40 P. 60", "4 Idaho 462", "40 P. 58"]
+citations: ["4 Idaho 459", "40 P. 60"]
 reporter: "idaho"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["STATE v. GRIFFIN"]
 source_url: "https://static.case.law/idaho/4/cases/0459-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5616196
-cites_cases: ["1 Idaho, 630", "1 Wall. 627", "10 Mo. 359", "100 Am. Dec. 366", "101 Cal. 223", "11 Pac. 219", "134 U. S. 136", "15 South. 411", "158 Mass. 328", "18 Wall. 163", "22 S. W. 978", "24 Pac. 283", "25 N. E. 1084", "28 Ala. 9", "3 Idaho, 119", "3 South. 344", "33 N E. 515", "33 Pae. 1121", "35 Pac. 710", "35 Pac. 770", "38 Pac. 355", "38 Pac. 356", "39 La. Ann. 1105", "4 Pac. 13", "42 N W. 319", "46 La. Ann. 1194", "47 Tex. 222", "5 Wyo. 107", "50 Mo. 145", "6 Neb. 274", "60 N. Y. 599", "65 Cal. 395", "69 Cal. 631", "70 Mo. 389", "77 Iowa, 355", "79 Ga. 159", "79 Mo. 370", "84 Cal. 484"]
+cites_cases: ["1 Idaho, 630", "1 Wall. 627", "10 Mo. 359", "100 Am. Dec. 366", "101 Cal. 223", "11 Pac. 219", "134 U. S. 136", "15 South. 411", "158 Mass. 328", "18 Wall. 163", "22 S. W. 978", "24 Pac. 283", "25 N. E. 1084", "28 Ala. 9", "3 South. 344", "33 N E. 515", "33 Pae. 1121", "35 Pac. 770", "38 Pac. 355", "38 Pac. 356", "39 La. Ann. 1105", "4 Pac. 13", "42 N W. 319", "46 La. Ann. 1194", "47 Tex. 222", "5 Wyo. 107", "50 Mo. 145", "6 Neb. 274", "60 N. Y. 599", "65 Cal. 395", "69 Cal. 631", "70 Mo. 389", "77 Iowa, 355", "79 Ga. 159", "79 Mo. 370", "84 Cal. 484"]
 ---
 
 # State v. Griffin
