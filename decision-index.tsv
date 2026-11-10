@@ -7507,8 +7507,8 @@ reference	path
 14 Idaho 45	decisions/idaho-supreme-court/1908/14-Idaho-45.md
 14 Idaho 450	decisions/idaho-supreme-court/1908/14-Idaho-450.md
 14 Idaho 462	decisions/idaho-supreme-court/1908/14-Idaho-462.md
-14 Idaho 463	decisions/idaho-supreme-court/1908/14-Idaho-463.md
-14 Idaho 464	decisions/idaho-supreme-court/1908/14-Idaho-464.md
+14 Idaho 463	decisions/idaho-supreme-court/1908/14-Idaho-462.md
+14 Idaho 464	decisions/idaho-supreme-court/1908/14-Idaho-462.md
 14 Idaho 465	decisions/idaho-supreme-court/1908/14-Idaho-465.md
 14 Idaho 472	decisions/idaho-supreme-court/1908/14-Idaho-472.md
 14 Idaho 478	decisions/idaho-supreme-court/1908/14-Idaho-478.md
@@ -13121,7 +13121,6 @@ reference	path
 200 P. 136	decisions/idaho-supreme-court/1921/34-Idaho-290.md
 200 P. 138	decisions/idaho-supreme-court/1921/34-Idaho-222.md
 200 P. 140	decisions/idaho-supreme-court/1921/34-Idaho-230.md
-200 P. 140	decisions/idaho-supreme-court/1921/34-Idaho-231.md
 200 P. 341	decisions/idaho-supreme-court/1921/34-Idaho-303.md
 200 P. 344	decisions/idaho-supreme-court/1921/34-Idaho-295.md
 200 P. 346	decisions/idaho-supreme-court/1921/34-Idaho-193.md
@@ -16166,8 +16165,6 @@ reference	path
 252 P. 177	decisions/idaho-supreme-court/1927/43-Idaho-409.md
 252 P. 182	decisions/idaho-supreme-court/1926/43-Idaho-158.md
 252 P. 185	decisions/idaho-supreme-court/1926/43-Idaho-171.md
-252 P. 185	decisions/idaho-supreme-court/1926/43-Idaho-172.md
-252 P. 185	decisions/idaho-supreme-court/1926/43-Idaho-173.md
 252 P. 186	decisions/idaho-supreme-court/1926/43-Idaho-337.md
 252 P. 406	decisions/idaho-supreme-court/1927/43-Idaho-482.md
 252 P. 427	decisions/idaho-supreme-court/1927/43-Idaho-639.md
@@ -20435,7 +20432,7 @@ reference	path
 34 Idaho 22	decisions/idaho-supreme-court/1921/34-Idaho-22.md
 34 Idaho 222	decisions/idaho-supreme-court/1921/34-Idaho-222.md
 34 Idaho 230	decisions/idaho-supreme-court/1921/34-Idaho-230.md
-34 Idaho 231	decisions/idaho-supreme-court/1921/34-Idaho-231.md
+34 Idaho 231	decisions/idaho-supreme-court/1921/34-Idaho-230.md
 34 Idaho 232	decisions/idaho-supreme-court/1921/34-Idaho-232.md
 34 Idaho 237	decisions/idaho-supreme-court/1921/34-Idaho-237.md
 34 Idaho 244	decisions/idaho-supreme-court/1921/34-Idaho-244.md
@@ -24087,8 +24084,8 @@ reference	path
 43 Idaho 157	decisions/idaho-supreme-court/1926/43-Idaho-157.md
 43 Idaho 158	decisions/idaho-supreme-court/1926/43-Idaho-158.md
 43 Idaho 171	decisions/idaho-supreme-court/1926/43-Idaho-171.md
-43 Idaho 172	decisions/idaho-supreme-court/1926/43-Idaho-172.md
-43 Idaho 173	decisions/idaho-supreme-court/1926/43-Idaho-173.md
+43 Idaho 172	decisions/idaho-supreme-court/1926/43-Idaho-171.md
+43 Idaho 173	decisions/idaho-supreme-court/1926/43-Idaho-171.md
 43 Idaho 174	decisions/idaho-supreme-court/1926/43-Idaho-174.md
 43 Idaho 175	decisions/idaho-supreme-court/1926/43-Idaho-175.md
 43 Idaho 180	decisions/idaho-supreme-court/1926/43-Idaho-180.md
@@ -39395,8 +39392,7 @@ reference	path
 94 P. 581	decisions/idaho-supreme-court/1908/14-Idaho-656.md
 94 P. 59	decisions/idaho-supreme-court/1908/14-Idaho-371.md
 94 P. 761	decisions/idaho-supreme-court/1908/14-Idaho-450.md
-94 P. 764	decisions/idaho-supreme-court/1908/14-Idaho-463.md
-94 P. 764	decisions/idaho-supreme-court/1908/14-Idaho-464.md
+94 P. 764	decisions/idaho-supreme-court/1908/14-Idaho-462.md
 94 P. 765	decisions/idaho-supreme-court/1908/14-Idaho-462.md
 94 P. 825	decisions/idaho-supreme-court/1908/14-Idaho-511.md
 94 P. 827	decisions/idaho-supreme-court/1908/14-Idaho-472.md
@@ -43706,7 +43702,7 @@ cap-2332696	decisions/idaho-supreme-court/1921/34-Idaho-732.md
 cap-2332697	decisions/idaho-supreme-court/1921/34-Idaho-691.md
 cap-2332698	decisions/idaho-supreme-court/1921/34-Idaho-222.md
 cap-2332699	decisions/idaho-supreme-court/1921/34-Idaho-587.md
-cap-2332700	decisions/idaho-supreme-court/1921/34-Idaho-231.md
+cap-2332700	decisions/idaho-supreme-court/1921/34-Idaho-230.md
 cap-2332701	decisions/idaho-supreme-court/1921/34-Idaho-63.md
 cap-2332702	decisions/idaho-supreme-court/1921/34-Idaho-22.md
 cap-2332703	decisions/idaho-supreme-court/1921/34-Idaho-362.md
@@ -47748,7 +47744,7 @@ cap-4378826	decisions/idaho-supreme-court/1927/43-Idaho-431.md
 cap-4378837	decisions/idaho-supreme-court/1927/44-Idaho-249.md
 cap-4378847	decisions/idaho-supreme-court/1927/43-Idaho-395.md
 cap-4378855	decisions/idaho-supreme-court/1927/44-Idaho-706.md
-cap-4378864	decisions/idaho-supreme-court/1926/43-Idaho-173.md
+cap-4378864	decisions/idaho-supreme-court/1926/43-Idaho-171.md
 cap-4378875	decisions/idaho-supreme-court/1927/44-Idaho-410.md
 cap-4378881	decisions/idaho-supreme-court/1926/43-Idaho-22.md
 cap-4378894	decisions/idaho-supreme-court/1927/44-Idaho-719.md
@@ -47839,7 +47835,7 @@ cap-4379681	decisions/idaho-supreme-court/1927/43-Idaho-600.md
 cap-4379694	decisions/idaho-supreme-court/1927/44-Idaho-237.md
 cap-4379702	decisions/idaho-supreme-court/1927/43-Idaho-439.md
 cap-4379714	decisions/idaho-supreme-court/1927/44-Idaho-544.md
-cap-4379718	decisions/idaho-supreme-court/1926/43-Idaho-172.md
+cap-4379718	decisions/idaho-supreme-court/1926/43-Idaho-171.md
 cap-4379733	decisions/idaho-supreme-court/1927/44-Idaho-33.md
 cap-4379737	decisions/idaho-supreme-court/1927/43-Idaho-400.md
 cap-4379754	decisions/idaho-supreme-court/1927/44-Idaho-751.md
@@ -55468,7 +55464,7 @@ cap-8585921	decisions/idaho-supreme-court/1896/5-Idaho-122.md
 cap-8585922	decisions/idaho-supreme-court/1925/40-Idaho-627.md
 cap-8585923	decisions/idaho-supreme-court/1967/91-Idaho-805.md
 cap-8585924	decisions/idaho-supreme-court/1989/115-Idaho-681.md
-cap-8585925	decisions/idaho-supreme-court/1908/14-Idaho-463.md
+cap-8585925	decisions/idaho-supreme-court/1908/14-Idaho-462.md
 cap-8585926	decisions/idaho-supreme-court/1904/10-Idaho-438.md
 cap-8585927	decisions/idaho-supreme-court/1924/38-Idaho-593.md
 cap-8585928	decisions/idaho-supreme-court/1898/6-Idaho-269.md
@@ -55476,7 +55472,7 @@ cap-8585929	decisions/idaho-supreme-court/1910/18-Idaho-429.md
 cap-8585930	decisions/idaho-supreme-court/1912/22-Idaho-560.md
 cap-8585931	decisions/idaho-supreme-court/1896/5-Idaho-126.md
 cap-8585933	decisions/idaho-supreme-court/1925/40-Idaho-630.md
-cap-8585934	decisions/idaho-supreme-court/1908/14-Idaho-464.md
+cap-8585934	decisions/idaho-supreme-court/1908/14-Idaho-462.md
 cap-8585935	decisions/idaho-supreme-court/1933/53-Idaho-793.md
 cap-8585936	decisions/idaho-supreme-court/1989/115-Idaho-692.md
 cap-8585938	decisions/idaho-supreme-court/1910/17-Idaho-471.md

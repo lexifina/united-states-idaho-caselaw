@@ -1,0 +1,6 @@
+path	relation	target	note
+decisions/idaho-supreme-court/1908/14-Idaho-463.md	same-decision-as	decisions/idaho-supreme-court/1908/14-Idaho-462.md	the same decision in another reporter (14 Idaho 463 and 14 Idaho 462), same day and text (similarity 0.98); both kept
+decisions/idaho-supreme-court/1908/14-Idaho-464.md	same-decision-as	decisions/idaho-supreme-court/1908/14-Idaho-462.md	the same decision in another reporter (14 Idaho 464 and 14 Idaho 462), same day and text (similarity 0.96); both kept
+decisions/idaho-supreme-court/1921/34-Idaho-231.md	same-decision-as	decisions/idaho-supreme-court/1921/34-Idaho-230.md	the same decision in another reporter (34 Idaho 231 and 34 Idaho 230), same day and text (similarity 1.00); both kept
+decisions/idaho-supreme-court/1926/43-Idaho-172.md	same-decision-as	decisions/idaho-supreme-court/1926/43-Idaho-171.md	the same decision in another reporter (43 Idaho 172 and 43 Idaho 171), same day and text (similarity 0.99); both kept
+decisions/idaho-supreme-court/1926/43-Idaho-173.md	same-decision-as	decisions/idaho-supreme-court/1926/43-Idaho-171.md	the same decision in another reporter (43 Idaho 173 and 43 Idaho 171), same day and text (similarity 1.00); both kept
